@@ -1,0 +1,7 @@
+llm,category,variable,P(llm_classification=YES | Var=High),P(Funniness=High | Var=High)
+deepseek,III. NSFW Humor,offensiveness,0.303125,0.19375
+deepseek,III. NSFW Humor,originality,0.21693121693121692,0.13580246913580246
+deepseek,III. NSFW Humor,appropriateness,0.16312056737588654,0.1049645390070922
+deepseek,III. NSFW Humor,clarity,0.15432873274780426,0.09661229611041405
+deepseek,III. NSFW Humor,confidence,0.20918367346938777,0.13095238095238096
+deepseek,III. NSFW Humor,score,0.15413851351351351,0.09628378378378379

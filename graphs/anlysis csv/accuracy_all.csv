@@ -1,0 +1,6 @@
+llm,metric,value,valid_entries
+grok,accuracy,0.4316321975896444,20163
+deepseek,accuracy,0.1958796599084369,18348
+chatgpt,accuracy,0.323966696402022,20178
+llama,accuracy,0.4120421317402924,19083
+average,accuracy,0.34327264311063105,77772

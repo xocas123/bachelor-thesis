@@ -1,0 +1,6 @@
+llm,category,variable,P(llm_classification=YES | Var=High),P(Funniness=High | Var=High)
+llama,V. Technical_Structural,offensiveness,0.2911392405063291,0.0
+llama,V. Technical_Structural,originality,0.38392857142857145,0.23214285714285715
+llama,V. Technical_Structural,clarity,0.16802168021680217,0.03387533875338753
+llama,V. Technical_Structural,confidence,0.22649006622516557,0.03576158940397351
+llama,V. Technical_Structural,score,0.17287234042553193,0.02526595744680851

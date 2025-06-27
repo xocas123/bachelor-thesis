@@ -1,0 +1,6 @@
+llm,category,variable,P(llm_classification=YES | Var=High),P(Funniness=High | Var=High)
+llama,VI. Regional_Subcultural,offensiveness,0.3333333333333333,0.0
+llama,VI. Regional_Subcultural,originality,0.5415282392026578,0.4684385382059801
+llama,VI. Regional_Subcultural,clarity,0.34363636363636363,0.15575757575757576
+llama,VI. Regional_Subcultural,confidence,0.37151898734177213,0.15569620253164557
+llama,VI. Regional_Subcultural,score,0.33814303638644916,0.15244667503136763

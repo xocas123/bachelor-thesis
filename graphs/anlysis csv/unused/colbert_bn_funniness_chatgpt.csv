@@ -1,0 +1,6 @@
+llm,category,variable,P(Funniness=High | Var=High)
+chatgpt,ColBERT,offensiveness,0.031030076775558888
+chatgpt,ColBERT,originality,0.042525444011264936
+chatgpt,ColBERT,appropriateness,0.08437602897596312
+chatgpt,ColBERT,clarity,0.0890666170806158
+chatgpt,ColBERT,confidence,0.1107426585482908

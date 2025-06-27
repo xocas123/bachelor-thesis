@@ -1,0 +1,7 @@
+joke_num,text,true_label,llm_classification,confidence,llm_personal_funny,funniness,offensiveness,originality,appropriateness,clarity,upvotes,downvotes,score
+1,Should I blow a medieval war horn right at 7 Am I have this medieval Viking more harm I am wondering should I blow it at 7 AM to wake up my cousins who have to go to school,True,NO,3,NO,6,2,4,5,7,5.0,0.0,5.0
+2,Erbium is a chemical element with the symbol Er and atomic number 68,False,NO,3,NO,6,2,4,5,7,,,
+3,"Feudalism in a nutshell King: We offer you protection from any problem in return for your services...you also can't leave... and you have to pay a ton of taxes. Peasant: Ok, but we don't have any problems. King:*Sets house on fire* King: You do now. Now be my slav- I mean... Surf, yeah surf.",True,NO,3,NO,6,2,4,5,7,16.0,0.0,16.0
+4,"Inquests in England and Wales are held into sudden or unexplained deaths and also into the circumstances of and discovery of a certain class of valuable artefacts known as ""treasure trove""",False,NO,2,NO,2,1,4,7,8,,,
+5,Placeholder,False,NO,2,NO,2,1,4,7,8,,,
+6,Placeholder,False,NO,2,NO,2,1,4,7,8,,,

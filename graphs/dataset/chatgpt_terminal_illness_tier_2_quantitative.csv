@@ -1,0 +1,214 @@
+joke_num,text,true_label,llm_classification,confidence,llm_personal_funny,funniness,offensiveness,originality,appropriateness,clarity,upvotes,downvotes,score
+1,What’s the difference between a lentil and a chickpea? I wouldn’t pay £50 to have a lentil on my face.,True,YES,8,YES,7,2,5,6,8,7.0,0.0,7.0
+2,Star Wars Q- What do you call a circumcised Wookie ? A- Jewbacca,True,YES,8,YES,7,2,5,6,8,6.0,0.0,6.0
+3,"Diplomatic immunity is a form of legal immunity that ensures diplomats are given safe passage and are considered not susceptible to lawsuit or prosecution under the host country's laws, although they may still be expelled",False,YES,8,YES,7,2,5,6,8,,,
+4,Events Pre-1600 474 – Zeno is crowned as co-emperor of the Byzantine Empire,False,NO,2,NO,2,1,3,8,7,,,
+5,"Encyclopedia Brown is a series of books featuring the adventures of boy detective Leroy Brown, nicknamed ""Encyclopedia"" for his intelligence and range of knowledge",False,NO,2,NO,2,1,3,8,7,,,
+6,"Carolyn Laurie Kane (born June 18, 1952) is an American actress and comedian",False,NO,2,NO,2,1,3,8,7,,,
+7,What do you do when your dishwasher stops working? Punch her in the face.,True,NO,2,NO,2,8,3,1,7,5.0,0.0,5.0
+8,"John Smith Hurt (March 8, 1893 – November 2, 1966), better known as Mississippi John Hurt, was an American country blues singer and guitarist",False,NO,2,NO,2,8,3,1,7,,,
+9,who killed more Indians than the US cavalry? union carbide and jack daniels,True,NO,2,NO,2,8,3,1,7,2.0,0.0,2.0
+10,APL (named after the book A Programming Language) is a programming language developed in the 1960s by Kenneth E,False,NO,3,NO,2,1,3,8,7,,,
+11,"Iao Valley (Hawaiian: Ī-ao: ""cloud supreme"", pronounced similar to ""EE-ow"") is a lush, stream-cut valley in West Maui, Hawaii, located west of Wailuku",False,NO,3,NO,2,1,3,8,7,,,
+12,"Good effort mate, but I'm not sure that's what Ariana Grande meant about feeling like a dangerous woman.",True,NO,3,NO,2,1,3,8,7,2.0,0.0,2.0
+13,What do you get when a black person dies A failed experiment What do you get when I kill my self A celebration party,True,NO,1,NO,1,9,2,1,5,9.0,0.0,9.0
+14,"Is it just me, or is Jaxon Strong the greatest photoshop hoax ever?",True,NO,1,NO,1,9,2,1,5,2.0,0.0,2.0
+15,I always feel guilty about making jokes about pedophilia But not as guilty as I feel about fucking my kids corpses.,True,NO,1,NO,1,9,2,1,5,8.0,0.0,8.0
+16,"Digital television (DTV) is the transmission of television signals using digital encoding, in contrast to the earlier analog television technology which used analog signals",False,NO,2,NO,2,1,3,10,8,,,
+17,Çevik Bir (born 1939) is a retired Turkish army general,False,NO,2,NO,2,1,3,10,8,,,
+18,"Continental Europe or mainland Europe is the contiguous continent of Europe, excluding its surrounding islands",False,NO,2,NO,2,1,3,10,8,,,
+19,A cymbal is a common percussion instrument,False,YES,8,YES,2,1,3,10,9,,,
+20,Kipchoge Hezekiah Keino (born 17 January 1940) is a retired Kenyan track and field athlete,False,YES,8,YES,2,1,3,10,9,,,
+21,A chemist (from Greek chēm(ía) alchemy; replacing chymist from Medieval Latin alchemist) is a scientist trained in the study of chemistry,False,YES,8,YES,2,1,3,10,9,,,
+22,"Barbara Kay Olson (née Bracher; December 27, 1955September 11, 2001) was an American lawyer and conservative television commentator who worked for CNN, Fox News Channel, and several other outlets",False,NO,1,NO,1,1,2,10,10,,,
+23,"In mathematics, the factorial of a non-negative denoted is the product of all positive integers less than or equal The factorial also equals the product of with the next smaller factorial: For example, The value of 0! is 1, according to the convention for an empty product",False,NO,1,NO,1,1,2,10,10,,,
+24,What do you call a quadriplegic in a swimming pool? Bob,True,NO,1,NO,1,1,2,10,10,10.0,0.0,10.0
+25,What does Roy Walker think about sex with his daughter? It's good but it's not right. :D,True,NO,2,NO,7,5,4,3,8,9.0,0.0,9.0
+26,"In linguistics, an affix is a morpheme that is attached to a word stem to form a new word or word form",False,NO,2,NO,7,5,4,3,8,,,
+27,Read Me.exe Why were assault rifles designed the way they were? because they have 30 bullets in a clip one bullet for one child in a classroom,True,NO,2,NO,7,5,4,3,8,5.0,0.0,5.0
+28,"Mariah Carey (; born March 27, 1969) is an American singer, songwriter, actress, and record producer",False,NO,1,NO,1,1,2,10,10,,,
+29,"The Marshall Plan (officially the European Recovery Program, ERP) was an American initiative enacted in 1948 to provide foreign aid to Western Europe",False,NO,1,NO,1,1,2,10,10,,,
+30,α-Ketoglutaric acid (2-oxoglutaric acid) is one of two ketone derivatives of glutaric acid,False,NO,1,NO,1,1,2,10,10,,,
+31,"ANSI C, ISO C, and Standard C are successive standards for the C programming language published by the American National Standards Institute (ANSI) and the International Organization for Standardization (ISO)",False,YES,8,YES,2,1,3,8,9,,,
+32,"A man was walking his dog through the graveyard when he saw another man crouching behind a gravestone. ""Morning!"" he said. The other man replies, ""No, just having a shit.""",True,YES,8,YES,2,1,3,8,9,6.0,0.0,6.0
+33,"In mathematics, the Laplace transform, named after its inventor Pierre-Simon Laplace (), is an integral transform that converts a function of a real variable (often time) to a function of a complex variable (complex frequency)",False,YES,8,YES,2,1,3,8,9,,,
+34,A cocktail is an alcoholic mixed drink,False,YES,9,YES,2,1,3,10,10,,,
+35,"Nuclear physics is the field of physics that studies atomic nuclei and their constituents and interactions, in addition to the study of other forms of nuclear matter",False,YES,9,YES,2,1,3,10,10,,,
+36,"Electronegativity, symbolized as χ, is the tendency for an atom of a given chemical element to attract shared electrons (or electron density) when forming a chemical bond",False,YES,9,YES,2,1,3,10,10,,,
+37,What's 5 years old and snaps? Madeline McCann's hymen,True,NO,1,NO,2,8,3,1,4,11.0,0.0,11.0
+38,What’s the difference between a dead hooker and an onion? I cry when I’m cutting up onions,True,NO,1,NO,2,8,3,1,4,25.0,0.0,25.0
+39,"In mathematics, the greatest common divisor (GCD) of two or more integers, which are not all zero, is the largest positive integer that divides each of the integers",False,NO,1,NO,2,8,3,1,4,,,
+40,"The English Greyhound, or simply the Greyhound, is a breed of dog, a sighthound which has been bred for coursing game and greyhound racing",False,NO,1,NO,2,1,3,8,9,,,
+41,What's the hardest thing about cutting of 5 year old billy's fingers one by one? (X-post from r/MeanJokes) His cock whilst I do it.,True,NO,1,NO,2,1,3,8,9,7.0,0.0,7.0
+42,What did the girl with no arms and no legs get for Christmas? Cancer,True,NO,1,NO,2,1,3,8,9,3.0,0.0,3.0
+43,what's the difference between reclusive kids and a paedophile? One is kids in private the other likes their privates in kids,True,NO,2,NO,3,8,2,1,4,9.0,0.0,9.0
+44,What do you call a Black woman that wears Braces/Retainers? A Black and Decker Pecker Wrecker !,True,NO,2,NO,3,8,2,1,4,2.0,0.0,2.0
+45,The subject of homosexuality and Judaism dates back to the Torah,False,NO,2,NO,3,8,2,1,4,,,
+46,"This girl told me that she wouldn't sleep with me if I was the last person on Earth. If I was the last person on Earth, she wouldn't have a choice in the matter.",True,YES,8,YES,8,2,7,5,9,5.0,0.0,5.0
+47,"Assistive technology (AT) is a term for assistive, adaptive, and rehabilitative devices for people with disabilities and the elderly",False,YES,8,YES,8,2,7,5,9,,,
+48,"In earth science, erosion is the action of surface processes (such as water flow or wind) that removes soil, rock, or dissolved material from one location on the Earth's crust, and then transports it to another location where it is deposited",False,YES,8,YES,8,2,7,5,9,,,
+49,"Anubis or Inpu, Anpu in Ancient Egyptian (; , Egyptian: inpw, Coptic: Anoup) is the Greek name of the god of death, mummification, embalming, the afterlife, cemeteries, tombs, and the Underworld, in ancient Egyptian religion, usually depicted as a canine or a man with a canine head",False,NO,1,NO,2,1,3,7,8,,,
+50,"According to the Book of Revelation in the New Testament of the Christian Bible, Armageddon (, from Harmagedōn, Late Latin: , from Hebrew: Har Məgīddō) is the prophesied location of a gathering of armies for a battle during the end times, which is variously interpreted as either a literal or a symbolic location",False,NO,1,NO,2,1,3,7,8,,,
+51,Excommunication is an institutional act of religious censure used to end or at least regulate the communion of a member of a congregation with other members of the religious institution who are in normal communion with each other,False,NO,1,NO,2,1,3,7,8,,,
+52,"Lucky kid gets to see BVS as dying wish. Lucky bastard 😁 A British fan whose dying wish was to see Batman V Superman: Dawn of Justice, got that chance last month, according to the #Batman4Bazz Facebook page. It had previously been reported that British Batman superfan Bazz Henderson-Gates had passed away before being granted a screening, but it appears as though his family simply weren't able to talk about the screening before now.",True,NO,5,NO,5,2,4,6,7,3.0,0.0,3.0
+53,Bromine is a chemical element with the symbol Br and atomic number 35,False,NO,5,NO,5,2,4,6,7,,,
+54,Sex has never been so good Since my husband died he’s always stiff…saving a fortune on viagra,True,NO,5,NO,5,2,4,6,7,6.0,0.0,6.0
+55,"Not as good as the rest, call it mild MDMA on my KFC Call that the zinger pinger jaw swinger",True,NO,3,NO,7,3,8,5,6,6.0,0.0,6.0
+56,The Miocene ( ) is the first geological epoch of the Neogene Period and extends from about (Ma),False,NO,3,NO,7,3,8,5,6,,,
+57,"Hawala or hewala ( , meaning transfer or sometimes trust), also known as in Persian, and or in Somali, is a popular and informal value transfer system based not on the movement of cash, or on telegraph or computer network wire transfers between banks, but instead on the performance and honour of a huge network of money brokers (known as hawaladars)",False,NO,3,NO,7,3,8,5,6,,,
+58,"Donald Ervin Knuth ( ; born January 10, 1938) is an American computer scientist, mathematician, and professor emeritus at Stanford University",False,NO,1,NO,1,1,2,10,10,,,
+59,Stranger Danger What’s the best thing about paedophiles…. They drive slow past schools,True,NO,1,NO,1,1,2,10,10,4.0,0.0,4.0
+60,"Jorge Francisco Isidoro Luis Borges Acevedo (; ; 24 August 1899 – 14 June 1986) was an Argentine short-story writer, essayist, poet and translator, and a key figure in Spanish-language and international literature",False,NO,1,NO,1,1,2,10,10,,,
+61,"Dude was telling me about a woman he found tied to the train tracks… He quickly untied her and carried the woman to safety where they had wild sex. I asked her if he got any head. He said “no, I couldn’t find it.”",True,YES,8,YES,7,3,6,4,8,7.0,0.0,7.0
+62,Events Pre-1600 29 BC – Octavian holds the first of three consecutive triumphs in Rome to celebrate the victory over the Dalmatian tribes,False,YES,8,YES,7,3,6,4,8,,,
+63,"My wife, being unhappy with my mood swings, bought me one of these mood rings so she could monitor my mood. We discovered that, when I am in a good mood, it turns green and, when I am in a bad mood, it leaves a big fucking red mark on her forehead.",True,YES,8,YES,7,3,6,4,8,2.0,0.0,2.0
+64,"Little boy with diarrhea A little boy says to his mother, ""Mommy, I have diarrhea can I have a Viagra?"" Mother replies, ""What?!"" Boy says, ""I have diarrhea, can I take a Viagra?"" Mother replies, ""You have diarrhea? Why would you want a Viagra??!"" Boy says, ""Well, isn't that what you give daddy to make his shit hard?""",True,YES,8,YES,7,3,6,2,8,15.0,0.0,15.0
+65,"An emperor (from , via ) is a monarch, and usually the sovereign ruler of an empire or another type of imperial realm",False,YES,8,YES,7,3,6,2,8,,,
+66,I'm not racist. Racism is a crime and crime is for black people.,True,YES,8,YES,7,3,6,2,8,5.0,0.0,5.0
+67,"Motala ström is the river system that drains lake Vättern, the second largest lake in Sweden, into the Baltic Sea in Norrköping",False,NO,2,NO,2,1,3,8,9,,,
+68,"Carinatae is the group of all birds and their extinct relatives to possess a keel, or ""carina"", on the underside of the breastbone used to anchor large flight muscles",False,NO,2,NO,2,1,3,8,9,,,
+69,Twin towers What is the twin towers favourite flavoured crisps? Plain,True,NO,2,NO,2,1,3,8,9,3.0,0.0,3.0
+70,What do you throw a drowning mexican? his wife and kids,True,NO,2,NO,2,9,3,1,5,6.0,0.0,6.0
+71,"Garry Kimovich Kasparov (Russian: Гарри Кимович Каспаров, Russian pronunciation: [ˈɡarʲɪ ˈkʲiməvʲɪtɕ kɐˈsparəf], born Garik Kimovich Weinstein, Гарик Кимович Вайнштейн; 13 April 1963) is a Russian chess grandmaster, former World Chess Champion, writer, political activist and commentator",False,NO,2,NO,2,9,3,1,5,,,
+72,"Aalen () is a former Free Imperial City located in the eastern part of the German state of Baden-Württemberg, about east of Stuttgart and north of Ulm",False,NO,2,NO,2,9,3,1,5,,,
+73,ColecoVision is a second-generation home video-game console developed by Coleco and launched in North America in August 1982,False,NO,1,NO,2,1,3,10,8,,,
+74,Another major school shooting in Texas... They say a child's coffin is the heaviest. Especially the ones with lead in them.,True,NO,1,NO,2,1,3,10,8,8.0,0.0,8.0
+75,Sorry to all the autistics. What do you call a autistic kid with a gun. Special Forces.,True,NO,1,NO,2,1,3,10,8,7.0,0.0,7.0
+76,The invisible balance or balance of trade on services is that part of the balance of trade that refers to services and other products that do not result in the transfer of physical objects,False,NO,3,NO,2,1,3,8,7,,,
+77,"Agricultural science (or agriscience for short) is a broad multidisciplinary field of biology that encompasses the parts of exact, natural, economic and social sciences that are used in the practice and understanding of agriculture",False,NO,3,NO,2,1,3,8,7,,,
+78,What's the preferred footwear for child abducting sex traffickers? Dark colored VANS.,True,NO,3,NO,2,1,3,8,7,9.0,0.0,9.0
+79,"Edward John Moreton Drax Plunkett, 18th Baron of Dunsany (; 24 July 1878 – 25 October 1957, usually Lord Dunsany) was an Anglo-Irish writer and dramatist",False,NO,1,NO,2,1,3,10,9,,,
+80,"Feminism is a range of socio-political movements and ideologies that aim to define and establish the political, economic, personal, and social equality of the sexes",False,NO,1,NO,2,1,3,10,9,,,
+81,"Events Pre-1600 62 – Earthquake in Pompeii, Italy",False,NO,1,NO,2,1,3,10,9,,,
+82,How to know when you’ve gone too far You run out of petrol when trying to dispose of the body in the boot of your car and you’re no where near a gas station!!,True,YES,7,YES,7,3,5,2,6,4.0,0.0,4.0
+83,Eiffel is an object-oriented programming language designed by Bertrand Meyer (an object-orientation proponent and author of Object-Oriented Software Construction) and Eiffel Software,False,YES,7,YES,7,3,5,2,6,,,
+84,"A Sick Modern Take on The Three Bears Goldilad enters a cottage. Sees porridge .. fuck that! Notices Great, Huge Daddy Bear's sex doll. ... It's way too fucked up. Notices Middle Mummy Bear's fucking machine. ... It's looks painful. And then he sees Little, Small, Wee Bear all alone in bed.",True,YES,7,YES,7,3,5,2,6,3.0,0.0,3.0
+85,The Hawker Harrier was an experimental biplane torpedo bomber aircraft built by Hawker Aircraft to a specification issued in the 1920s for the RAF,False,NO,1,NO,2,1,3,8,7,,,
+86,Yep it's just you Jaxon is NOT a hoax REALLY!!!!! Some of us know the family and he is real.,True,NO,1,NO,2,1,3,8,7,3.0,0.0,3.0
+87,"The Book of Esther (Hebrew: , Megillat Esther), also known in Hebrew as ""the Scroll"" (Megillah), is a book in the third section (Ketuvim, ""Writings"") of the Jewish Tanakh (the Hebrew Bible)",False,NO,1,NO,2,1,3,8,7,,,
+88,"Icehenge is a science fiction novel by American author Kim Stanley Robinson, published in 1984",False,NO,1,NO,1,1,1,10,10,,,
+89,What's the difference between a hippy girl and a hockey player? A hokey players shower after 3 periods,True,NO,1,NO,1,1,1,10,10,16.0,0.0,16.0
+90,what do you call 4 mexicans sinking? quatro cinco,True,NO,1,NO,1,1,1,10,10,7.0,0.0,7.0
+91,The European Convention on Human Rights (ECHR; formally the Convention for the Protection of Human Rights and Fundamental Freedoms) is an international convention to protect human rights and political freedoms in Europe,False,NO,1,NO,1,1,2,8,9,,,
+92,"Benjamin Franklin ( April 17, 1790) was an American polymath who was active as a writer, scientist, inventor, statesman, diplomat, printer, publisher and political philosopher",False,NO,1,NO,1,1,2,8,9,,,
+93,Why did the sperm cross the road? My 7 year old was walking to school,True,NO,1,NO,1,1,2,8,9,6.0,0.0,6.0
+94,The economy of American Samoa is a traditional Polynesian economy in which more than 90% of the land is communally owned,False,NO,2,NO,2,1,3,7,8,,,
+95,The accusative case (abbreviated ) of a noun is the grammatical case used to mark the direct object of a transitive verb,False,NO,2,NO,2,1,3,7,8,,,
+96,"Lithium carbonate is an inorganic compound, the lithium salt of carbonate with the formula",False,NO,2,NO,2,1,3,7,8,,,
+97,"The Bundestag (, ""Federal Diet"") is the German federal parliament",False,NO,3,NO,2,1,3,10,8,,,
+98,"Ettore Ximenes (11 April 1855, Palermo 20 December 1926, Rome) was an Italian sculptor",False,NO,3,NO,2,1,3,10,8,,,
+99,"It must be true when people say ""You are what you eat"" because Jimmy Saville was an imature cunt.",True,NO,3,NO,2,1,3,10,8,4.0,0.0,4.0
+100,"AIX (Advanced Interactive eXecutive, pronounced , “ay-eye-ex”) is a series of proprietary Unix operating systems developed and sold by IBM for several of its computer platforms",False,NO,1,NO,2,1,3,8,9,,,
+101,What do you do if you come across a tiger in the Jungle? Wipe it off and apologise.,True,NO,1,NO,2,1,3,8,9,3.0,0.0,3.0
+102,My Mates Kept On Begging Me To Do Meat Loaf Jokes But I Won't Do That!,True,NO,1,NO,2,1,3,8,9,3.0,0.0,3.0
+103,Did you know Paul Walker had dandruff Neither did I until I saw his head and shoulders on his dashboard,True,YES,8,YES,7,2,6,5,8,14.0,0.0,14.0
+104,"Mychal Fallon Judge, O",False,YES,8,YES,7,2,6,5,8,,,
+105,The British Open is the Open Championship men's golf tournament,False,YES,8,YES,7,2,6,5,8,,,
+106,How do you know you're at a gay bbq? Hotdogs taste like shit.,True,NO,3,NO,7,5,4,3,8,11.0,0.0,11.0
+107,Koalang is a term coined by Janusz A,False,NO,3,NO,7,5,4,3,8,,,
+108,How can you tell when your sister is on her period? When your dad’s dick tastes funny,True,NO,3,NO,7,5,4,3,8,8.0,0.0,8.0
+109,How many babies does it take to paint a wall Depends how hard you throw them,True,YES,8,YES,6,7,5,3,8,17.0,0.0,17.0
+110,"Mother of all F**k Ups A mother hears her son and daughter making a commotion upstairs. A bit concerned she goes to see what’s going on, only to find her son fingering his younger sister. Absolutely incensed at what she’s witnessing, she grabs her son and shouts ‘You’d better be able to tell me something which makes this ok” Without a pause the young boy turns to his mum and says ‘I’ve found dad’s wedding ring.”",True,YES,8,YES,6,7,5,3,8,8.0,0.0,8.0
+111,Not sure how sick is acceptable before I say anything. How much is too much?,True,YES,8,YES,6,7,5,3,8,2.0,0.0,2.0
+112,"Conrad II may refer to: Conrad II, Duke of Transjurane Burgundy () Conrad II, Holy Roman Emperor (c",False,NO,2,NO,2,1,3,8,5,,,
+113,"Felidae () is a family of mammals in the order Carnivora, colloquially referred to as cats, and constitutes a clade",False,NO,2,NO,2,1,3,8,5,,,
+114,New York City (NYC) is the most populous city in the United States,False,NO,2,NO,2,1,3,8,5,,,
+115,Ajaigarh or Adjygurh is a town and a nagar panchayat in the Panna District of Madhya Pradesh state in central India,False,NO,1,NO,1,1,2,10,9,,,
+116,"DKW (Dampf-Kraft-Wagen, , also Deutsche Kinder-Wagen",False,NO,1,NO,1,1,2,10,9,,,
+117,A company is a group of more than one persons to carry out an enterprise and so a form of business organization,False,NO,1,NO,1,1,2,10,9,,,
+118,S What u call a fish with cancer/////////// finding chemo,True,YES,8,YES,6,2,4,5,7,4.0,0.0,4.0
+119,What’s the most dangerous thing in Ukraine if your flies undone? Cherknob’ll Fallout,True,YES,8,YES,6,2,4,5,7,15.0,0.0,15.0
+120,"Alexandra () is the feminine form of the given name Alexander (, )",False,YES,8,YES,6,2,4,5,7,,,
+121,"Michael Lee Aday (born Marvin Lee Aday; September 27, 1947 – January 20, 2022), known professionally as Meat Loaf, was an American singer and actor",False,NO,1,NO,2,1,3,10,10,,,
+122,Why was the guitar sent to jail for life? He plucked A Minor with a G string,True,NO,1,NO,2,1,3,10,10,11.0,0.0,11.0
+123,My kids suck me off daily.,True,NO,1,NO,2,1,3,10,10,7.0,0.0,7.0
+124,A girl went to a costume party wearing only a Tampon. It was a PERIOD costume! 2 Basket Ball Players were on trial for rape. There Lawyer got the charge reduced to a double-dribble.,True,YES,7,YES,6,4,3,2,7,2.0,0.0,2.0
+125,"Adelaide ( ) is the capital city of South Australia, the state's largest city and the fifth-most populous city of Australia",False,YES,7,YES,6,4,3,2,7,,,
+126,Telecommunications in Eritrea are under the authority of the Government of Eritrea,False,YES,7,YES,6,4,3,2,7,,,
+127,Where did Jamal go during the airstrike? Everywhere,True,YES,8,YES,7,2,6,5,8,5.0,0.0,5.0
+128,"A musical ensemble, also known as a music group or musical group, is a group of people who perform instrumental or vocal music, with the ensemble typically known by a distinct name",False,YES,8,YES,7,2,6,5,8,,,
+129,"This morning on the way to work I drove into the back of a car, at some lights, whilst not really paying attention. The driver got out and he was a dwarf. He said, ""I'm not happy."" I replied, ""Well, which one are you then?""",True,YES,8,YES,7,2,6,5,8,5.0,0.0,5.0
+130,What do a homeless woman and an American football player have in common? They both take off their pads after four periods,True,YES,8,YES,7,2,5,6,8,6.0,0.0,6.0
+131,What's worse than finding a worm in your apple? Being raped,True,YES,8,YES,7,2,5,6,8,6.0,0.0,6.0
+132,"Trieste is a Swiss-designed, Italian-built deep-diving research bathyscaphe which reached a record depth of about in the Challenger Deep of the Mariana Trench near Guam in the Pacific",False,YES,8,YES,7,2,5,6,8,,,
+133,"""Little Boy"" was the codename for the type of atomic bomb dropped on the Japanese city of Hiroshima on 6 August 1945 during World War II",False,NO,1,NO,1,2,3,7,8,,,
+134,"Nazi's should've called it the ""Bergen-Belsen Bunsen Burner""",True,NO,1,NO,1,2,3,7,8,2.0,0.0,2.0
+135,What stoped the bullet from penatrating the crippled womans chest? a baby.,True,NO,1,NO,1,2,3,7,8,3.0,0.0,3.0
+136,What does 9 out of every 10 people enjoy? Gang rape,True,NO,1,NO,1,10,2,1,8,6.0,0.0,6.0
+137,Sick joke alert. What's the hardest part of running through a field of dead babies ? My erection.,True,NO,1,NO,1,10,2,1,8,12.0,0.0,12.0
+138,"Flamenco (), in its strictest sense, is an art form based on the various folkloric music traditions of southern Spain, developed within the gitano subculture of the region of Andalusia, but also having a historical presence in Extremadura and Murcia",False,NO,1,NO,1,10,2,1,8,,,
+139,Telecommunications in France are highly developed,False,YES,8,YES,2,1,3,10,8,,,
+140,"A motel, also known as a motor hotel, motor inn or motor lodge, is a hotel designed for motorists, usually having each room entered directly from the parking area for motor vehicles rather than through a central lobby",False,YES,8,YES,2,1,3,10,8,,,
+141,What do you call a dead baby nailed to the wall? Art.,True,YES,8,YES,2,1,3,10,8,9.0,0.0,9.0
+142,"The Lockheed AC-130 gunship is a heavily armed, long-endurance, ground-attack variant of the C-130 Hercules transport, fixed-wing aircraft",False,NO,1,NO,2,1,3,8,7,,,
+143,"Have you ever noticed that it's only 'perfect' people who are murdered or killed in horrific accidents? ""He was the perfect son"" or ""She was the perfect daughter."" ""Such a tragic accident they were the perfect family."" ""They died together, the perfect couple till the end."" Makes me glad I abuse my kids and beat up my wife. Kind of makes me immortal.",True,NO,1,NO,2,1,3,8,7,6.0,0.0,6.0
+144,This article considers transport in Armenia,False,NO,1,NO,2,1,3,8,7,,,
+145,"Leo is one of the constellations of the zodiac, lying between Cancer the crab to the west and Virgo the maiden to the east",False,NO,2,NO,2,1,3,10,8,,,
+146,"Game night Mommy mommy, l just got raped in prison! Daddys taking monopoly way too serious!",True,NO,2,NO,2,1,3,10,8,15.0,0.0,15.0
+147,"Ken Elton Kesey (September 17, 1935 – November 10, 2001) was an American novelist, essayist and countercultural figure",False,NO,2,NO,2,1,3,10,8,,,
+148,Have you seen Stevie Wonder’s new house ? Neither has he.,True,YES,9,YES,7,1,6,8,9,8.0,0.0,8.0
+149,"Moravia ( , also , ; ; ; ; ; ) is a historical region in the east of the Czech Republic and one of three historical Czech lands, with Bohemia and Czech Silesia",False,YES,9,YES,7,1,6,8,9,,,
+150,"Run run as fast as you can, you can't catch me I'm... Madeleine McCann",True,YES,9,YES,7,1,6,8,9,20.0,0.0,20.0
+151,Call of Cthulhu is a horror fiction role-playing game based on H,False,NO,8,NO,2,1,3,7,8,,,
+152,What is the best thing about fucking twenty eight year olds? That there are twenty of them,True,NO,8,NO,2,1,3,7,8,23.0,0.0,23.0
+153,What do you call 250 Native Americans with bilateral mastectomies ? The Indian Nipple-less 500,True,NO,8,NO,2,1,3,7,8,6.0,0.0,6.0
+154,"Hi all, looking for new members for the necrophilia society.. Our motto ""Crack open a cold one""",True,YES,8,YES,8,5,7,3,8,10.0,0.0,10.0
+155,Time Q - What do you call a time travel vehicle for special needs people ? A - The Retardis,True,YES,8,YES,8,5,7,3,8,3.0,0.0,3.0
+156,"Why was the piano laughing? He had been with five 9 year olds in one day, and they all ran their hands up and down the full width of its body.",True,YES,8,YES,8,5,7,3,8,9.0,0.0,9.0
+157,"Undertaker I used to work for an undertaker. One day I caught the manager molesting a young woman. Initially I was shocked , but relieved when I realised she had already been dead for 2 days",True,YES,8,YES,7,4,6,3,8,7.0,0.0,7.0
+158,Why should you avoid eating out your girlfriend the morning after sex? Ever try pulling apart a grilled cheese sandwich?,True,YES,8,YES,7,4,6,3,8,6.0,0.0,6.0
+159,How do you stop a Jew from drowning? Take your foot off his head. How do you stop an African from drowning? Take your foot off his head. How do you stop an Asian from drowning? Take your foot off his head. For fucks sake stop stepping on peoples heads,True,YES,8,YES,7,4,6,3,8,6.0,0.0,6.0
+160,"Master of Puppets is the third studio album by the American heavy metal band Metallica, released on March 3, 1986, by Elektra Records",False,NO,1,NO,2,1,3,10,10,,,
+161,An automatic number announcement circuit (ANAC) is a component of a central office of a telephone company that provides a service to installation and service technicians to determine the telephone number of a line,False,NO,1,NO,2,1,3,10,10,,,
+162,How do you know when your sister's on her period? Because your Dad's cock tastes like blood.,True,NO,1,NO,2,1,3,10,10,18.0,0.0,18.0
+163,"Smeagal arrives at Auschwitz, he walks up to Jakub and asks, “So, how do we pick up hot women around here?” Smeagal looks at him and responds “with a dustpan and broom.”",True,YES,7,YES,7,3,6,2,8,6.0,0.0,6.0
+164,Doom is a 1993 first-person shooter (FPS) game developed by id Software for MS-DOS,False,YES,7,YES,7,3,6,2,8,,,
+165,"Cytosine () (symbol C or Cyt) is one of the four nucleobases found in DNA and RNA, along with adenine, guanine, and thymine (uracil in RNA)",False,YES,7,YES,7,3,6,2,8,,,
+166,"A manuscript (abbreviated MS for singular and MSS for plural) was, traditionally, any document written by hand – or, once practical typewriters became available, typewritten – as opposed to mechanically printed or reproduced in some indirect or automated way",False,NO,1,NO,2,1,4,8,7,,,
+167,"Costa Rica is an active member of the international community and, in 1983, claimed it was for neutrality",False,NO,1,NO,2,1,4,8,7,,,
+168,The Burgundians (; ; ; ) were an early Germanic tribe or group of tribes,False,NO,1,NO,2,1,4,8,7,,,
+169,What do you do if Someone has a seizure in in your bathtub?,True,YES,9,YES,7,2,6,4,8,5.0,0.0,5.0
+170,"How is Napoleon different from the Austin bomber? How is Napoleon different from the Austin bomber? ... Napoleon was Bonaparte, the Austin bomber was blown-apart.",True,YES,9,YES,7,2,6,4,8,2.0,0.0,2.0
+171,"In gridiron football, a lateral pass or lateral (officially backward pass in American football and onside pass in Canadian football) occurs when the ball carrier throws the football to a teammate in a direction parallel to or away from the opponents' goal line",False,YES,9,YES,7,2,6,4,8,,,
+172,I want your sickest most twisted jokes. How do you pick up a Jewish girl? Walk into Auschwitz with a dustpan.,True,NO,1,NO,2,9,3,1,7,15.0,0.0,15.0
+173,Did you know squirrels die after they have sex? The one I fucked did.,True,NO,1,NO,2,9,3,1,7,8.0,0.0,8.0
+174,"Constantine, son of Áed (Medieval Gaelic: Causantín mac Áeda; Modern Gaelic: Còiseam mac Aoidh, known in most modern regnal lists as Constantine II; born no later than 879; died 952) was an early King of Scotland, known then by the Gaelic name Alba",False,NO,1,NO,2,9,3,1,7,,,
+175,Sister's cycle How do you know when your sister is on her period? Your Dad's dick tastes like blood!,True,NO,1,NO,2,9,1,1,3,4.0,0.0,4.0
+176,How do you keep kids out of your yard? Molest them,True,NO,1,NO,2,9,1,1,3,5.0,0.0,5.0
+177,What do anal sex and driving a car have in common? I sat on my dads lap the first time I tried it,True,NO,1,NO,2,9,1,1,3,22.0,0.0,22.0
+178,"In European Christianity, the divine right of kings, divine right, or God's mandation is a political and religious doctrine of political legitimacy of a monarchy",False,NO,2,NO,2,1,3,7,5,,,
+179,Amaranthus is a cosmopolitan genus of annual or short-lived perennial plants collectively known as amaranths,False,NO,2,NO,2,1,3,7,5,,,
+180,"A man goes into a library and asks for a book on suicide. The librarian says; ""Fuck off, you won't bring it back.""",True,NO,2,NO,2,1,3,7,5,6.0,0.0,6.0
+181,What's the difference between a PAEDOPHILE and an unPAEDOPHILE? A little un,True,NO,2,NO,2,8,3,2,7,4.0,0.0,4.0
+182,"I'm American, and I'm sick of people saying America is ""the stupidest country in the world."" Personally, I think Europe is the stupidest country in the world.",True,NO,2,NO,2,8,3,2,7,3.0,0.0,3.0
+183,what runs across walls and kills Jews? Gas pipes,True,NO,2,NO,2,8,3,2,7,13.0,0.0,13.0
+184,What has 8 big black hairy legs and makes women scream? Gang rape...,True,NO,1,NO,1,10,2,1,8,10.0,0.0,10.0
+185,"Pick up line: Damn, can I call you Sandy Hook? Because I want to shoot a bunch of kids inside of you.",True,NO,1,NO,1,10,2,1,8,6.0,0.0,6.0
+186,"If the United States was attacked from behind, would Greece help ?",True,NO,1,NO,1,10,2,1,8,12.0,0.0,12.0
+187,Boy Scout leaders should always have another adult present. You need another adult to hold them down and keep them from squirming around so much.,True,YES,8,YES,7,4,6,3,8,6.0,0.0,6.0
+188,you know a girl is too young when you have to make car noises to get your dick in her mouth,True,YES,8,YES,7,4,6,3,8,10.0,0.0,10.0
+189,"Sir Harold Walter Kroto (born Harold Walter Krotoschiner; 7 October 1939 – 30 April 2016), known as Harry Kroto, was an English chemist",False,YES,8,YES,7,4,6,3,8,,,
+190,Did you hear about Hitler Knievel ? He tried to jump 40 Jews on a Steamroller!,True,NO,2,NO,4,8,3,2,7,3.0,0.0,3.0
+191,What’s the best way to mentally ruin a girl? Mid way through raping her you stop and say “sorry I’m just not that in to you”,True,NO,2,NO,4,8,3,2,7,26.0,0.0,26.0
+192,Enterobacteriaceae is a large family of Gram-negative bacteria,False,NO,2,NO,4,8,3,2,7,,,
+193,What's black and doesn't work? Half of London.,True,YES,8,YES,7,2,5,4,8,8.0,0.0,8.0
+194,"A dagger is a knife with a very sharp point and usually two sharp edges, typically designed or capable of being used as a thrusting or stabbing weapon",False,YES,8,YES,7,2,5,4,8,,,
+195,"Jimmy Saville track suits I hear a major sports clothing chain is doing a range of Jimmy Saville track suits. The top is a normal size, but it has a tight bottom you have to squeeze into",True,YES,8,YES,7,2,5,4,8,3.0,0.0,3.0
+196,How does every Black joke start? By looking over your shoulder!,True,YES,8,NO,4,7,3,2,8,4.0,0.0,4.0
+197,Statistically 9/11 Americans won't get this.,True,YES,8,NO,4,7,3,2,8,4.0,0.0,4.0
+198,How do you know your sister is NOT on her period? You found the bloody coat hanger,True,YES,8,NO,4,7,3,2,8,9.0,0.0,9.0
+199,What's the hardest thing about running over a child with a car? My dick.,True,NO,1,NO,3,9,2,1,8,32.0,0.0,32.0
+200,What's pink and dribbles? A flamongo.,True,NO,1,NO,3,9,2,1,8,14.0,0.0,14.0
+201,"Events Pre-1600 173 – Marcomannic Wars: The Roman army in Moravia is encircled by the Quadi, who have broken the peace treaty (171)",False,NO,1,NO,3,9,2,1,8,,,
+202,Statistically... 9 out of 10 people enjoy gang rape.,True,NO,1,NO,7,9,6,2,8,10.0,0.0,10.0
+203,A Bayer designation is a stellar designation in which a specific star is identified by a Greek or Latin letter followed by the genitive form of its parent constellation's Latin name,False,NO,1,NO,7,9,6,2,8,,,
+204,"Coronavirus Joke If you're a necrophiliac and your spouse dies of Covid-19, do you get Mourning Wood? Source: My own sick mind.",True,NO,1,NO,7,9,6,2,8,8.0,0.0,8.0
+205,"Myelin is a lipid-rich (fatty) substance that surrounds nerve cell axons (the nervous system's ""wires"") to insulate them and increase the rate at which electrical impulses (called action potentials) are passed along the axon",False,NO,1,NO,2,1,3,8,9,,,
+206,"What do you give a deaf, dumb and blind kid for Christmas? Cancer",True,NO,1,NO,2,1,3,8,9,7.0,0.0,7.0
+207,A kite is a tethered heavier-than-air or lighter-than-air craft with wing surfaces that react against the air to create lift and drag forces,False,NO,1,NO,2,1,3,8,9,,,
+208,What’s the fastest thing on land? Stevie Wonder’s Speedboat,True,YES,8,YES,7,2,5,6,8,12.0,0.0,12.0
+209,"A quotient group or factor group is a mathematical group obtained by aggregating similar elements of a larger group using an equivalence relation that preserves some of the group structure (the rest of the structure is ""factored"" out)",False,YES,8,YES,7,2,5,6,8,,,
+210,"There are a number of transport services around the Isle of Man, mostly consisting of paved roads, public transport, rail services, sea ports and an airport",False,YES,8,YES,7,2,5,6,8,,,
+211,Statistically 9 out of 10 people enjoy Gang Rape,True,NO,1,NO,2,9,1,1,5,13.0,0.0,13.0
+212,"What do you call a dog with no legs? It doesn't matter, he won't come anyway.",True,NO,1,NO,2,9,1,1,5,6.0,0.0,6.0
+213,Placeholder,False,NO,1,NO,2,9,1,1,5,,,

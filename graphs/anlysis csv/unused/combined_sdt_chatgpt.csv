@@ -1,0 +1,6 @@
+llm,category,variable,P(llm_classification=YES | Var=High),P(Funniness=High | Var=High)
+chatgpt,Combined,offensiveness,0.5225951621976374,0.45115319707481716
+chatgpt,Combined,originality,0.5808344857827099,0.38786386480925555
+chatgpt,Combined,appropriateness,0.5798690781481981,0.37974085571602106
+chatgpt,Combined,clarity,0.5620964920650066,0.36574118245714465
+chatgpt,Combined,confidence,0.748718600415131,0.47418138687677386

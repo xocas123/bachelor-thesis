@@ -1,0 +1,6 @@
+llm,metric,value,valid_entries
+grok,mismatch_percentage,15.978994748687173,19995
+deepseek,mismatch_percentage,0.8244994110718492,15282
+chatgpt,mismatch_percentage,0.3420074349442379,20175
+llama,mismatch_percentage,6.590122680088078,19074
+average,mismatch_percentage,6.2354077771515986,74526

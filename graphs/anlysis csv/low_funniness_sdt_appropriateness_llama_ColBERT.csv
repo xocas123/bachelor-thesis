@@ -1,0 +1,2 @@
+llm,dataset,predictor,d_prime,beta,hit_rate,false_alarm_rate,valid_entries
+llama,ColBERT,appropriateness,-0.12135676640720429,1.0075271787238902,0.5004446420631392,0.5487371204522659,59889

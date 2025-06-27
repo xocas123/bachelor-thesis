@@ -1,0 +1,6 @@
+llm,category,variable,P(llm_classification=YES | Var=High),P(Funniness=High | Var=High)
+deepseek,VI. Regional_Subcultural,offensiveness,0.09090909090909091,0.18181818181818182
+deepseek,VI. Regional_Subcultural,originality,0.4,0.3090909090909091
+deepseek,VI. Regional_Subcultural,clarity,0.15432098765432098,0.1337448559670782
+deepseek,VI. Regional_Subcultural,confidence,0.28368794326241137,0.23049645390070922
+deepseek,VI. Regional_Subcultural,score,0.1459050240880936,0.12801101169993118

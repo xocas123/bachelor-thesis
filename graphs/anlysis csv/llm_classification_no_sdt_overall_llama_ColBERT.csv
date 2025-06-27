@@ -1,0 +1,2 @@
+llm,dataset,d_prime,beta,hit_rate,false_alarm_rate,valid_entries
+llama,ColBERT,-0.33585519466672,1.154755446803363,0.6027597402597402,0.7245299761521824,59715

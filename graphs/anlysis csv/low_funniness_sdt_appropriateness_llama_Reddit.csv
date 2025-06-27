@@ -1,0 +1,2 @@
+llm,dataset,predictor,d_prime,beta,hit_rate,false_alarm_rate,valid_entries
+llama,Reddit,appropriateness,1.6630327676618344,0.8385094045862821,0.8257300042319086,0.2340396257567419,19083

@@ -1,0 +1,6 @@
+llm,category,variable,P(llm_classification=YES | Var=High),P(Funniness=High | Var=High)
+llama,ColBERT,offensiveness,0.6966673742305243,0.18700912757376353
+llama,ColBERT,originality,0.8712509144111192,0.47227505486466714
+llama,ColBERT,appropriateness,0.6537688730696366,0.36465928009644644
+llama,ColBERT,clarity,0.6574064737319754,0.3264596148028638
+llama,ColBERT,confidence,0.7781024509511599,0.38612916691514104

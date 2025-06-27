@@ -1,0 +1,6 @@
+llm,metric,value,valid_entries
+grok,confidence,8.488733024921654,20103
+deepseek,confidence,5.309368538253539,18861
+chatgpt,confidence,4.00297353553375,20178
+llama,confidence,9.371168055337211,19083
+average,confidence,6.78032598274209,78225

@@ -1,0 +1,36 @@
+llm,category,metric,value,valid_entries
+grok,III. NSFW Humor,mismatch_percentage,22.55892255892256,2673
+grok,VII. Experimental,mismatch_percentage,19.51219512195122,1107
+grok,II. Contextual Humor,mismatch_percentage,20.27800490596893,3669
+grok,IV. Social Dynamics,mismatch_percentage,19.696969696969695,198
+grok,VI. Regional/Subcultural,mismatch_percentage,15.480427046263346,1686
+grok,I. Linguistic Humor,mismatch_percentage,12.065250846414282,9747
+grok,V. Technical/Structural,mismatch_percentage,17.04918032786885,915
+deepseek,III. NSFW Humor,mismatch_percentage,2.6153846153846154,1950
+deepseek,VII. Experimental,mismatch_percentage,0.0,822
+deepseek,II. Contextual Humor,mismatch_percentage,1.1122345803842264,2967
+deepseek,IV. Social Dynamics,mismatch_percentage,0.0,162
+deepseek,VI. Regional/Subcultural,mismatch_percentage,0.45871559633027525,1308
+deepseek,I. Linguistic Humor,mismatch_percentage,0.4920049200492005,7317
+deepseek,V. Technical/Structural,mismatch_percentage,0.0,756
+chatgpt,III. NSFW Humor,mismatch_percentage,0.5567928730512249,2694
+chatgpt,VII. Experimental,mismatch_percentage,0.0,1119
+chatgpt,II. Contextual Humor,mismatch_percentage,0.16286644951140067,3684
+chatgpt,IV. Social Dynamics,mismatch_percentage,1.5384615384615385,195
+chatgpt,VI. Regional/Subcultural,mismatch_percentage,1.056338028169014,1704
+chatgpt,I. Linguistic Humor,mismatch_percentage,0.24345709068776628,9858
+chatgpt,V. Technical/Structural,mismatch_percentage,0.32573289902280134,921
+llama,III. NSFW Humor,mismatch_percentage,7.985257985257984,2442
+llama,VII. Experimental,mismatch_percentage,9.383378016085791,1119
+llama,II. Contextual Humor,mismatch_percentage,8.123476848090982,3693
+llama,IV. Social Dynamics,mismatch_percentage,10.606060606060606,198
+llama,VI. Regional/Subcultural,mismatch_percentage,5.799648506151142,1707
+llama,I. Linguistic Humor,mismatch_percentage,4.969979986657772,8994
+llama,V. Technical/Structural,mismatch_percentage,9.77198697068404,921
+average,III. NSFW Humor,mismatch_percentage,8.853366123578235,9759
+average,VII. Experimental,mismatch_percentage,7.703383729301656,4167
+average,II. Contextual Humor,mismatch_percentage,7.728537786341255,14013
+average,IV. Social Dynamics,mismatch_percentage,8.366533864541832,753
+average,VI. Regional/Subcultural,mismatch_percentage,5.995316159250585,6405
+average,I. Linguistic Humor,mismatch_percentage,4.685933845639826,35916
+average,V. Technical/Structural,mismatch_percentage,7.087959009393681,3513

@@ -1,0 +1,7 @@
+llm,category,variable,P(llm_classification=YES | Var=High),P(Funniness=High | Var=High)
+deepseek,VII. Experimental,offensiveness,0.17647058823529413,0.18627450980392157
+deepseek,VII. Experimental,originality,0.1349206349206349,0.16666666666666666
+deepseek,VII. Experimental,appropriateness,0.10059171597633136,0.1242603550295858
+deepseek,VII. Experimental,clarity,0.09912536443148688,0.12244897959183673
+deepseek,VII. Experimental,confidence,0.13333333333333333,0.16470588235294117
+deepseek,VII. Experimental,score,0.09889001009081735,0.12209889001009082

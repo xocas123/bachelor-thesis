@@ -1,0 +1,7 @@
+joke_num,text,true_label,llm_classification,confidence,llm_personal_funny,funniness,offensiveness,originality,appropriateness,clarity,upvotes,downvotes,score
+1,"Lithuania is a country on the south-eastern shore of the Baltic Sea, a member of the United Nations Organisation, the Organisation for Security and Cooperation in Europe, the European Union, the North Atlantic Treaty Organisation, the World Trade Organisation",False,NO,10,NO,1,1,1,10,10,,,
+2,What is your fav fandom? Like I know many fandom's but I'm really interested to know what are your fav fandom and also what is the most hated and loved fandom.,True,NO,10,NO,2,1,2,9,8,4.0,0.0,4.0
+3,James Gordon Brown (born 20 February 1951) is a British politician who served as Prime Minister of the United Kingdom and Leader of the Labour Party from 2007 to 2010,False,NO,10,NO,1,1,1,10,10,,,
+4,"Born again, or to experience the new birth, is a phrase, particularly in evangelicalism, that refers to a ""spiritual rebirth"", or a regeneration of the human spirit",False,NO,10,NO,1,1,1,10,10,,,
+5,"(Meta) When people comment on some of these posts with “memesopdidntlike” or related stuff, why? I see it on almost every post and I think people need to cut the OP some slack as I think that a lot of those posts are valid for this sub. Do I have a bad view?",True,NO,10,NO,2,1,2,9,8,9.0,0.0,9.0
+6,what are some absolutely terrible/weird ship names your fandom has,True,NO,10,NO,6,1,8,9,8,150.0,0.0,150.0

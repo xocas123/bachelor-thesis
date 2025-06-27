@@ -1,0 +1,2 @@
+llm,dataset,predictor,d_prime,beta,hit_rate,false_alarm_rate,valid_entries
+deepseek,ColBERT,offensiveness,-0.29581104558185245,1.0952508022544403,0.5634283420313128,0.6756173579477344,52485

@@ -1,0 +1,4 @@
+joke_num,text,true_label,llm_classification,confidence,llm_personal_funny,funniness,offensiveness,originality,appropriateness,clarity,upvotes,downvotes,score
+1,Clamping down on low effort / off topic / bot content We are fed up of the amount of off-topic / low effort / bot accounts content here and are claming down on it. Please report any you see. Bans are going to be issued. This is not a dumping ground for such content and is ruining the subreddit. So many bot accounts have been banned in 24 hours alone. Thank you to those of you who have been reporting such content .,True,NO,9,NO,2,1,3,9,8,415.0,0.0,415.0
+2,"Enhanced Data rates for GSM Evolution (EDGE) also known as Enhanced GPRS (EGPRS), IMT Single Carrier (IMT-SC), or Enhanced Data rates for Global Evolution) is a digital mobile phone technology that allows improved data transmission rates as a backward-compatible extension of GSM",False,NO,9,NO,1,1,1,10,10,,,
+3,Placeholder,False,NO,9,NO,5,3,4,7,6,,,

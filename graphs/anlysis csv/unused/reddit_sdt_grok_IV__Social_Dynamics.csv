@@ -1,0 +1,7 @@
+llm,category,variable,P(llm_classification=YES | Var=High),P(Funniness=High | Var=High)
+grok,IV. Social Dynamics,offensiveness,0.4714285714285714,0.07142857142857142
+grok,IV. Social Dynamics,originality,0.4105263157894737,0.07368421052631578
+grok,IV. Social Dynamics,appropriateness,0.2994652406417112,0.0374331550802139
+grok,IV. Social Dynamics,clarity,0.3333333333333333,0.043209876543209874
+grok,IV. Social Dynamics,confidence,0.30456852791878175,0.03553299492385787
+grok,IV. Social Dynamics,score,0.30612244897959184,0.03571428571428571

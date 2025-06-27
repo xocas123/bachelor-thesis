@@ -1,0 +1,7 @@
+llm,category,variable,P(llm_classification=YES | Var=High),P(Funniness=High | Var=High)
+grok,Overall,offensiveness,0.586552217453505,0.10014306151645208
+grok,Overall,originality,0.573630831643002,0.12332657200811359
+grok,Overall,appropriateness,0.43153616905987535,0.06572744513681929
+grok,Overall,clarity,0.46248133399701347,0.07565953210552513
+grok,Overall,confidence,0.4381440629692921,0.06291750815597327
+grok,Overall,score,0.4347457177705892,0.061197433313888744

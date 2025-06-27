@@ -1,0 +1,2 @@
+llm,dataset,predictor,d_prime,beta,hit_rate,false_alarm_rate,valid_entries
+deepseek,ColBERT,clarity,-1.5805828592964635,3.7301205154080748,0.5169864295741694,0.9477239353891336,52485

@@ -1,0 +1,2 @@
+llm,dataset,predictor,d_prime,beta,hit_rate,false_alarm_rate,valid_entries
+grok,ColBERT,clarity,-0.49086916575178197,1.2167073867720732,0.5612579587111711,0.7405456509994598,59973

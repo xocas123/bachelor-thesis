@@ -1,0 +1,7 @@
+llm,category,variable,P(llm_classification=YES | Var=High),P(Funniness=High | Var=High)
+deepseek,Overall,offensiveness,0.31721194879089615,0.27382645803698435
+deepseek,Overall,originality,0.2655832591273375,0.21193232413178986
+deepseek,Overall,appropriateness,0.19872225958305312,0.1590450571620713
+deepseek,Overall,clarity,0.19494290375203915,0.15530179445350734
+deepseek,Overall,confidence,0.25821089023336213,0.20548833189282628
+deepseek,Overall,score,0.19214967799244947,0.1527315123251166

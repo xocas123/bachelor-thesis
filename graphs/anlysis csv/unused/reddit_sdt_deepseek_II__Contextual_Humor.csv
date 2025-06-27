@@ -1,0 +1,7 @@
+llm,category,variable,P(llm_classification=YES | Var=High),P(Funniness=High | Var=High)
+deepseek,II. Contextual Humor,offensiveness,0.2247191011235955,0.20786516853932585
+deepseek,II. Contextual Humor,originality,0.2565707133917397,0.21151439299123906
+deepseek,II. Contextual Humor,appropriateness,0.18659420289855072,0.15217391304347827
+deepseek,II. Contextual Humor,clarity,0.184,0.15022222222222223
+deepseek,II. Contextual Humor,confidence,0.24439197166469895,0.19952774498229045
+deepseek,II. Contextual Humor,score,0.1836796145739235,0.14875037639265282

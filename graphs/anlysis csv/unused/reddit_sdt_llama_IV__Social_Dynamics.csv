@@ -1,0 +1,7 @@
+llm,category,variable,P(llm_classification=YES | Var=High),P(Funniness=High | Var=High)
+llama,IV. Social Dynamics,offensiveness,0.6981132075471698,0.2641509433962264
+llama,IV. Social Dynamics,originality,0.6125,0.3125
+llama,IV. Social Dynamics,appropriateness,0.4143646408839779,0.13259668508287292
+llama,IV. Social Dynamics,clarity,0.43005181347150256,0.12953367875647667
+llama,IV. Social Dynamics,confidence,0.4397905759162304,0.13089005235602094
+llama,IV. Social Dynamics,score,0.42857142857142855,0.12755102040816327

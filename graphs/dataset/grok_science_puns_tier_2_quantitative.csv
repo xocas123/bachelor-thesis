@@ -1,0 +1,109 @@
+joke_num,text,true_label,llm_classification,confidence,llm_personal_funny,funniness,offensiveness,originality,appropriateness,clarity,upvotes,downvotes,score
+1,⏣ why don't we make this a flair? ⏣⏣⏣⏣,True,NO,3,NO,2,1,3,9,2,16.0,0.0,16.0
+2,Baldassarre Cossa (c,False,NO,3,NO,1,1,1,10,1,,,
+3,Ok everybody knows the dihydrogen monoxide prank so lets do this instead We must warn people about the dangers of hydrohydroxic acid,True,NO,3,NO,6,1,7,9,8,51.0,0.0,51.0
+4,Lutetium is a chemical element with the symbol Lu and atomic number 71,False,NO,9,NO,1,1,1,10,10,,,
+5,Did you hear about the physicist who got cooled to absolute zero? He’s 0K now,True,NO,9,NO,7,1,6,9,8,9.0,0.0,9.0
+6,"Marie Salomea Skłodowska Curie ( , ; born Maria Salomea Skłodowska, ; 7 November 1867 – 4 July 1934) was a Polish and naturalized-French physicist and chemist who conducted pioneering research on radioactivity",False,NO,9,NO,1,1,1,10,1,,,
+7,"Events Pre-1600 618 – Li Yuan becomes Emperor Gaozu of Tang, initiating three centuries of Tang dynasty rule over China",False,NO,9,NO,1,1,1,10,1,,,
+8,"Julian Jaynes (February 27, 1920 – November 21, 1997) was an American researcher in psychology at Yale and Princeton for nearly 25 years and best known for his 1976 book The Origin of Consciousness in the Breakdown of the Bicameral Mind",False,NO,9,NO,1,1,1,10,10,,,
+9,"They should rename Non-polar covalent bonds to Grizzly covalent bonds!! THINK ABOUT IT, Non polar and polar? makes no sense, plus its so boring! Now polar and grizzly bonds? that's sure to be fun for students and get memorized easily, just wait till they heart about Panda bonds!",True,NO,9,NO,6,1,7,9,8,34.0,0.0,34.0
+10,"Wake up! We need to get with the times. I am not comfortable labeling Z as cis when THEY obviously are happy being trans. Similarly, everything about E presents cis, but we won't stop referring to THEM as trans. I always thought this convention needed to be changed for us who like memory devices, anyway. I was never happy with ""Z for zame zide."" I mean, what genius thought Zeus-Man and Aunty-Jean were helpful? Aunty-Jean doesn't even start with an 'E!' Now is the time, people!",True,YES,8,NO,4,6,7,5,3,21.0,0.0,21.0
+11,"Arabic numerals are the ten numerical digits: 0, 1, 2, 3, 4, 5, 6, 7, 8 and 9",False,YES,8,NO,1,1,1,10,10,,,
+12,"The Czech Republic is a Central European country, a member of the European Union, the Organisation for Economic Co-operation and Development (OSCE), the North Atlantic Treaty Organization (NATO), the United Nations (and all of its main specialized agencies and boards)",False,YES,8,NO,1,1,1,10,10,,,
+13,1 is an odd perfect number where is my million dollars,True,YES,8,NO,3,1,5,8,4,117.0,0.0,117.0
+14,"This article is about the demographic features of the population of the Cook Islands, including population density, ethnicity, education level, health of the populace, economic status, religious affiliations and other aspects of the population",False,YES,8,NO,1,1,1,10,10,,,
+15,Elizabeth I (7 September 153324 March 1603) was Queen of England and Ireland from 17 November 1558 until her death in 1603,False,YES,8,NO,1,1,1,10,10,,,
+16,The gigabyte () is a multiple of the unit byte for digital information,False,NO,8,NO,1,1,1,10,10,,,
+17,"The Afghan Hound is a hound that is distinguished by its thick, fine, silky coat and its tail with a ring curl at the end",False,NO,8,NO,1,1,1,10,1,,,
+18,"Just an odd true story I wish I could create memes. I can't, but this actually happened the other day. I was at a sales meeting for a company called Epsilon at a conference center. Delta airlines was also having a conference. Personally I thought putting them in the same wing of the conference center was a bit derivative.",True,NO,8,NO,6,1,7,9,8,23.0,0.0,23.0
+19,"How does the ionic bond like its electron martini? Taken, not shared.",True,YES,9,YES,6,1,7,9,8,3.0,0.0,3.0
+20,I refuse to obey the laws of physics AMA I may or may not respond due to the consequences of my decision,True,YES,9,YES,6,1,7,9,8,65.0,0.0,65.0
+21,What does Alan Turing and an electric field in a paraller plate capacitor have in common? Each of them is homogenius.,True,YES,9,YES,4,1,7,8,5,156.0,0.0,156.0
+22,What do you call a quantum rectal pill? A superpository.,True,YES,9,YES,7,3,8,6,9,157.0,0.0,157.0
+23,"In Greek mythology, the Minotaur ( , ; ; in Latin as Minotaurus ) is a mythical creature portrayed during classical antiquity with the head and tail of a bull and the body of a man or, as described by Roman poet Ovid, a being ""part man and part bull""",False,YES,9,YES,2,1,3,9,8,,,
+24,The Armed Forces of Azerbaijan () were re-established according to the Law of the Republic of Azerbaijan on the Armed Forces from 9 October 1991,False,YES,9,YES,1,1,1,10,10,,,
+25,"2=3-1 An engineer, a biologist and a mathematician are outside of an empty house. They observe two people walking into the house, and a while later three people exit the house. The engineer say,s ""Our initial assumption must be wrong!"" The biologist replies, ""It's obvious that they reproduced."" The mathematician says, ""now if one more person enters the house, it will be empty!""",True,YES,9,YES,7,1,8,9,6,23.0,0.0,23.0
+26,"Hot take, e^(ɩ̇π) + 1 = 0 is actually a pretty mid way to express Euler's Formula e^(ɩ̇θ) = cos(θ) + ɩ̇sin(θ). Like, I get that the identity itself is pretty cool and has a bunch of uses, but I feel like the wider connection between exponentiation, complex numbers, and trigonometry gets obscured when the identity is presented on its own without the context of Euler's Formula. Euler's identity is just a consequence of θ = π corresponding to (-1, 0) on the unit circle.",True,YES,9,YES,3,1,6,8,4,182.0,0.0,182.0
+27,Is there a circlejerk for math? dont know what flair to put,True,YES,9,YES,4,3,6,7,5,144.0,0.0,144.0
+28,Help for Two days in wien ? Any science-related attractions to see in Vienna?,True,YES,8,NO,2,1,3,9,4,4.0,0.0,4.0
+29,This sub makes me happy,True,YES,8,NO,2,1,1,10,8,15.0,0.0,15.0
+30,QUOD ERAT DEMONSTRATUM Commonly abbreviated as QED. How do you pronounce such a three letter string? (Not really a meme just wanted to see people’s opinions),True,YES,8,NO,3,1,4,9,5,28.0,0.0,28.0
+31,Are you an electron? Because I'm positive there's an attraction between us.,True,YES,9,YES,6,1,5,9,8,33.0,0.0,33.0
+32,French ( or ) is a Romance language of the Indo-European family,False,YES,9,YES,1,1,1,10,1,,,
+33,"Me: I’ll just check my solution real quick. The solution: Let *x* = 1. Without loss of generality, let *x* = 2. By symmetry, let *x* = 3. Therefore, *x* = 4.",True,YES,9,YES,7,1,8,9,6,23.0,0.0,23.0
+34,Induction in verse > You want to prove a theorem then > To prove it for every integer _n_ > You prove it first for _n_ equal one > And then the induction is begun > The proof goes on in the following way > You assume it next for _n_ equal _k_ > If you can show it then for _k+1_ > Then the induction is truly done. - L. Moser Given in a high school math textbook (S. Chand Class XI ISC),True,YES,8,YES,6,1,7,9,8,10.0,0.0,10.0
+35,"The OpenGL Utility Toolkit (GLUT) is a library of utilities for OpenGL programs, which primarily perform system-level I/O with the host operating system",False,YES,8,YES,1,1,1,10,10,,,
+36,What do you call an educated tube? A graduated cylinder,True,YES,8,YES,7,1,8,9,9,6.0,0.0,6.0
+37,"The Krugerrand (; ) is a South African coin, first minted on 3 July 1967 to help market South African gold and produced by Rand Refinery and the South African Mint",False,NO,9,NO,1,1,1,10,10,,,
+38,"In chemistry, concentration is the abundance of a constituent divided by the total volume of a mixture",False,NO,9,NO,1,1,1,10,10,,,
+39,"The Chilean Armed Forces () is the unified military organization comprising the Chilean Army, Air Force and Navy",False,NO,9,NO,1,1,1,10,10,,,
+40,"Cow is a colloquial term for cattle, and the name of female cattle",False,YES,8,NO,2,1,3,9,5,,,
+41,Why couldn't Euler find a job in Athens? He was out of Greece,True,YES,8,NO,6,1,7,9,8,7.0,0.0,7.0
+42,"Mortimer Jerome Adler (December 28, 1902 – June 28, 2001) was an American philosopher, educator, encyclopedist, and popular author",False,YES,8,NO,1,1,1,10,10,,,
+43,"A man is caught stealing from a mathematician The mathematician agrees to drop all charges if he runs through 3 forests. The first forest only contains 1 TREE. The second Forest contains 3 TREEs. When he saw the third forest he said, ""Just throw me in jail.""",True,YES,8,YES,6,1,7,9,5,559.0,0.0,559.0
+44,Only a real Applied Pure Math enjoyer can relate Pure math person: makes math Applied math person: applies math Applied pure math person: makes math to apply it 🗿,True,YES,8,YES,6,1,7,9,8,15.0,0.0,15.0
+45,"It's all a matter of perspective. Intrinsically foils are flat; it's us, the outside observers, who are wrong.",True,YES,8,YES,3,1,6,9,4,6.0,0.0,6.0
+46,"In multiplayer online games, a MUSH (a backronymed variation on MUD most often expanded as Multi-User Shared Hallucination, though Multi-User Shared Hack, Habitat, and Holodeck are also observed) is a text-based online social medium to which multiple users are connected at the same time",False,NO,8,NO,3,1,5,9,7,,,
+47,"Kuznetsov, Kuznyetsov, Kuznetsoff, or Kouznetsov (masculine, ) or Kuznetsova (feminine, ) is the third most common Russian surname, an equivalent of the English ""Smith"" (derived from a Russian word kuznets that means blacksmith)",False,NO,8,NO,2,1,3,9,8,,,
+48,"Kimberly Beck (born January 9, 1956) is a former American actress and model",False,NO,8,NO,1,1,1,10,1,,,
+49,"Did you hear about the palladium-free Buchwald-Hartwig that was reported from heating the solution to 37°C, but it only works if the flask is in a woman's vagina? Yeah, they had to retract it, cause it turned out to just be a cunt amination",True,YES,9,NO,3,9,7,2,5,210.0,0.0,210.0
+50,Physics tattoos whose got some I really want some designs for a tattoo related ro electromagnetism and double slit experiment but I really don’t know where to start. But curious if anyone has any sick pics of physics tattoos. I posted here instead of r/physics for maybe obvious reasons,True,YES,9,NO,3,1,5,8,7,7.0,0.0,7.0
+51,"If you were to have one superpower related to physics, what would it be? My number one pick would be to be able to change the static and kinetic coefficients of frictions of any two objects I wish at the wave of my hand.",True,YES,9,NO,4,1,7,9,6,71.0,0.0,71.0
+52,"Matthew may refer to: Matthew (given name) Matthew (surname) Matthew (ship), the replica of the ship sailed by John Cabot in 1497 Matthew (album), a 2000 album by rapper Kool Keith Matthew (elm cultivar), a cultivar of the Chinese Elm Ulmus parvifolia Hurricane Matthew, a former hurricane in the Atlantic Ocean",False,NO,9,NO,2,1,3,9,8,,,
+53,A new set of numbers Let the more convoluted complex numbers be of the form a+bi where an and b are imaginary numbers and i is the imaginary unit,True,NO,9,NO,6,1,7,9,5,41.0,0.0,41.0
+54,"Keyword may refer to a word or a sort of phrase that can be associated with a particular subject, document or moment",False,NO,9,NO,1,1,1,10,10,,,
+55,"Mount is often used as part of the name of specific mountains, e",False,NO,8,NO,1,1,1,10,1,,,
+56,Are you more of a sin or cos kind of person? Please put your discussions (debates) below,True,NO,8,NO,6,1,7,9,8,116.0,0.0,116.0
+57,Tensors What is a tensor? (Wrong answers only),True,NO,8,NO,6,1,7,9,8,65.0,0.0,65.0
+58,is a 1987 to 1991 cyberpunk original video animation (OVA) series produced by Youmex and animated by AIC and Artmic,False,NO,8,NO,1,1,1,10,1,,,
+59,"this sub is full of bots why on earth are nearly all submissions to this sub by porn repost bots? and is there no way to weed them out? they seldom contribute somethin new and, well, are porn repost bots.",True,NO,8,NO,3,2,4,7,8,21.0,0.0,21.0
+60,"A card game is any game using playing cards as the primary device with which the game is played, be they traditional or game-specific",False,NO,8,NO,1,1,1,10,10,,,
+61,"The cane toad (Rhinella marina), also known as the giant neotropical toad or marine toad, is a large, terrestrial true toad native to South and mainland Central America, but which has been introduced to various islands throughout Oceania and the Caribbean, as well as Northern Australia",False,NO,8,NO,1,1,1,10,10,,,
+62,"Politics of Lesotho takes place in a framework of a parliamentary representative democratic constitutional monarchy, whereby the Prime Minister of Lesotho is the head of government, and of a multi-party system",False,NO,8,NO,1,1,1,10,10,,,
+63,"is a 1975 Japanese kaiju film directed by Ishirō Honda, written by Yukiko Takayama, and produced by Tomoyuki Tanaka and Henry G",False,NO,8,NO,1,1,1,10,1,,,
+64,"Stop Squark While the stop squark is a really convincing candidate for ""best SUSY particle name"", my humble opinion is that the selectron sneutrino is consistently slepton.",True,YES,9,YES,6,1,7,9,5,126.0,0.0,126.0
+65,Konrad Hermann Joseph Adenauer (; 5 January 1876 – 19 April 1967) was a German statesman who served as the first chancellor of West Germany from 1949 to 1963,False,YES,9,YES,1,1,1,10,1,,,
+66,"Siegfried Fred Singer (September 27, 1924 – April 6, 2020) was an Austrian-born American physicist and emeritus professor of environmental science at the University of Virginia, trained as an atmospheric physicist",False,YES,9,YES,1,1,1,10,1,,,
+67,Circuit analysis Did any one want to complete the circuit with a toaster and bathtub when they first started their circuit class?,True,YES,8,NO,6,3,7,6,8,12.0,0.0,12.0
+68,I am summoning the factorial bot to see if it can calculate 1 billion factorial 1000000000!,True,YES,8,NO,3,1,4,9,7,763.0,0.0,763.0
+69,"Friends is an American television sitcom created by David Crane and Marta Kauffman, which aired on NBC from September 22, 1994, to May 6, 2004, lasting ten seasons",False,YES,8,NO,7,2,6,9,8,,,
+70,If twenty different people comment there’s a 50 percent chance that you’ll share a cake day! Math,True,YES,8,NO,4,1,5,9,6,50.0,0.0,50.0
+71,I wanted to share a chemistry joke...... But Na,True,YES,8,NO,6,1,7,9,8,2.0,0.0,2.0
+72,"was the 47th emperor of Japan, according to the traditional order of succession",False,YES,8,NO,1,1,1,10,1,,,
+73,If organic chemistry is mentally challenging are chemistry students mentally challenged?,True,YES,9,YES,6,3,7,7,8,206.0,0.0,206.0
+74,"""You have two cows"" is a form of political satire on various political, economic, etc",False,YES,9,YES,6,2,7,8,7,,,
+75,"As an overseas department and region of France, Guadeloupe has a developed telecommunication system",False,YES,9,YES,1,1,1,10,1,,,
+76,The economy of Haiti is a free market economy with low labor costs,False,YES,8,NO,1,1,1,9,2,,,
+77,Do you wanna be a star? Then go 150 Million miles away from me and burn.,True,YES,8,NO,6,4,7,6,8,11.0,0.0,11.0
+78,"Anatoly Yevgenyevich Karpov (; born May 23, 1951) is a Russian and former Soviet chess grandmaster, former World Chess Champion, ⁣and politician",False,YES,8,NO,1,1,1,10,1,,,
+79,John Stauber is an American progressive writer,False,NO,8,NO,1,1,1,10,10,,,
+80,She markovnikov addition on my double bond till I halogen group on my more substituted carbocation,True,NO,8,NO,6,2,8,7,4,37.0,0.0,37.0
+81,"Cahiers du Cinéma (, ) is a French film magazine co-founded in 1951 by André Bazin, Jacques Doniol-Valcroze, and Joseph-Marie Lo Duca",False,NO,8,NO,1,1,1,10,10,,,
+82,"Its my, Eulars and Da Vinci's bday today!",True,YES,8,YES,3,1,5,9,6,14.0,0.0,14.0
+83,"Magnesium & Aluminum Powder To all the chemists' out there, where can I buy both of these in Australia, 200 Mesh? - Magnesium & Aluminum Powder",True,YES,8,YES,2,1,3,8,4,7.0,0.0,7.0
+84,"Looking for a “fancy” looking expression that equals 45 Bonus for using e, i, pi or any other constants, some exponents, a factorial… for a birthday gift",True,YES,8,YES,4,1,7,9,6,247.0,0.0,247.0
+85,Why is there no chemistry circlejerk Why,True,YES,8,NO,3,2,4,7,5,116.0,0.0,116.0
+86,Happy pi month everyone! (I am an engineer),True,YES,8,NO,3,1,4,9,7,38.0,0.0,38.0
+87,"The Morona River is a tributary to the Marañón River, and flows parallel to the Pastaza River and immediately to the west of it, and is the last stream of any importance on the northern side of the Amazon before reaching the Pongo de Manseriche",False,YES,8,NO,1,1,1,10,10,,,
+88,"Three ships of the Royal Navy have been named HMS Hood after several members of the Hood family, who were notable naval officers: , a 91-gun second-rate ship of the line, originally laid down as HMS Edgar, but renamed in 1848 and launched in 1859",False,NO,9,NO,1,1,1,10,1,,,
+89,"I was going to post a joke about sodium but I thought ""Na, people wont understand it.""",True,NO,9,NO,6,1,7,9,8,10.0,0.0,10.0
+90,"An amplifier, electronic amplifier or (informally) amp is an electronic device that can increase the power of a signal (a time-varying voltage or current)",False,NO,9,NO,1,1,1,10,10,,,
+91,"Request: looking for math meme Looking for a meme of the older variety (using rage faces). It was something like a sequence of events: * Solve equation, get wrong answer * Notice algebra error. Fix it, get new wrong answer. * Notice four more algebra errors. Fix each one, getting a new wrong answer each time. * Etc. with each step accompanied by various accentuating rage faces.",True,YES,8,YES,7,1,6,9,8,2.0,0.0,2.0
+92,Indira Priyadarshini Gandhi (; née Nehru; 19 November 1917 – 31 October 1984) was an Indian politician and a central figure of the Indian National Congress,False,YES,8,YES,1,1,1,10,1,,,
+93,"FAO, or the Food and Agriculture Organization, is an agency of the United Nations",False,YES,8,YES,1,1,1,10,10,,,
+94,"While Hypertext Markup Language (HTML) has been in use since 1991, HTML 4",False,YES,8,NO,2,1,3,9,4,,,
+95,"Looking for an old math video There was this joke video I saw like almost 10y ago about a dude who supposedly solved integration (or perhaps derivation) by applying his ""horseshoe method"", it was really funny and I'd like to send it to a friend, considering it's April fools day and all that. Does anyone know what video I'm talking about?",True,YES,8,NO,4,1,5,9,6,3.0,0.0,3.0
+96,"Baldr (also Balder, Baldur) is a god in Germanic mythology",False,YES,8,NO,1,1,1,10,10,,,
+97,"She texted me ""tysm"" and I replied ""P"" am I cooked?",True,YES,8,YES,6,2,5,8,7,540.0,0.0,540.0
+98,"Is this huge or am i dumb? If you take any 2 consecutive natural numbers, say a and b then (a+b)^2 - 4ab = 1 always holds.",True,YES,8,YES,3,1,5,9,7,13.0,0.0,13.0
+99,"In information theory and coding theory with applications in computer science and telecommunication, error detection and correction or error control are techniques that enable reliable delivery of digital data over unreliable communication channels",False,YES,8,YES,1,1,1,10,10,,,
+100,Shower thought: Does the Schrödinger Cat paradox simplify any of the cat is appropriated as a sphere?,True,YES,8,NO,3,1,6,8,2,2.0,0.0,2.0
+101,"Media studies is a discipline and field of study that deals with the content, history, and effects of various media; in particular, the mass media",False,YES,8,NO,1,1,1,10,10,,,
+102,"Since the empty set contains no x Pick any x from the empty set and let it represent voluptuous claims as stated in my proofs textbook. x is a purple elephant that speaks German x is a yellow kangaroo that juggles fire Contrarily, a truly universal does contain those elements and I won’t rest until I see it with my eyes. Here’s the pun I promised: Does math make you numb? Well math puns would make you even number.",True,YES,8,NO,6,1,7,9,5,60.0,0.0,60.0
+103,"This article is about the demographic features of the population of Jamaica, including population density, education level, health of the populace, economic status, religious affiliations and other aspects of the population",False,NO,9,NO,1,1,1,10,10,,,
+104,"In legal terminology, a complaint is any formal legal document that sets out the facts and legal reasons (see: cause of action) that the filing party or parties (the plaintiff(s)) believes are sufficient to support a claim against the party or parties against whom the claim is brought (the defendant(s)) that entitles the plaintiff(s) to a remedy (either money damages or injunctive relief)",False,NO,9,NO,1,1,1,10,10,,,
+105,"I'm a spherical cow, AMA Nows your chance to ask any questions you have to the real approximation of a cow",True,NO,9,NO,6,1,7,9,5,394.0,0.0,394.0
+106,"Adobe (; ) is a building material made from earth and organic materials, is Spanish for mudbrick",False,YES,8,NO,2,1,3,9,4,,,
+107,Placeholder,False,YES,8,NO,5,3,4,7,6,,,
+108,Placeholder,False,YES,8,NO,5,3,4,7,6,,,

@@ -1,0 +1,57 @@
+mismatch,category,standardized_residual,llm,dataset
+0,I. Linguistic Humor,9.208806003291976,grok,reddit
+0,II. Contextual Humor,-5.045885174700476,grok,reddit
+0,III. NSFW Humor,-6.635358321792788,grok,reddit
+0,IV. Social Dynamics,-2.472852128098804,grok,reddit
+0,V. Technical/Structural,-4.76877600469198,grok,reddit
+0,VI. Regional/Subcultural,-2.0527198800418156,grok,reddit
+0,VII. Experimental,-5.09714173555406,grok,reddit
+1,I. Linguistic Humor,-12.22917357786788,grok,reddit
+1,II. Contextual Humor,6.700869323704201,grok,reddit
+1,III. NSFW Humor,8.811668813475523,grok,reddit
+1,IV. Social Dynamics,3.2839151890168674,grok,reddit
+1,V. Technical/Structural,6.332871980852005,grok,reddit
+1,VI. Regional/Subcultural,2.7259850745903003,grok,reddit
+1,VII. Experimental,6.768937364171005,grok,reddit
+0,I. Linguistic Humor,0.6130653523506386,deepseek,reddit
+0,II. Contextual Humor,-0.13072733641741416,deepseek,reddit
+0,III. NSFW Humor,-1.6208163854494049,deepseek,reddit
+0,IV. Social Dynamics,0.14776544021860225,deepseek,reddit
+0,V. Technical/Structural,0.0660827138107953,deepseek,reddit
+0,VI. Regional/Subcultural,0.11672005960072487,deepseek,reddit
+0,VII. Experimental,0.2663879357248399,deepseek,reddit
+1,I. Linguistic Humor,-3.3449573052333137,deepseek,reddit
+1,II. Contextual Humor,0.7132638588471767,deepseek,reddit
+1,III. NSFW Humor,8.843366515760984,deepseek,reddit
+1,IV. Social Dynamics,-0.8062257748298549,deepseek,reddit
+1,V. Technical/Structural,-0.3605551275463989,deepseek,reddit
+1,VI. Regional/Subcultural,-0.6368384945124265,deepseek,reddit
+1,VII. Experimental,-1.4534441853748632,deepseek,reddit
+0,I. Linguistic Humor,0.11595214906941698,chatgpt,reddit
+0,II. Contextual Humor,-0.03325741678580851,chatgpt,reddit
+0,III. NSFW Humor,-0.2685889210792738,chatgpt,reddit
+0,IV. Social Dynamics,0.012397201677618848,chatgpt,reddit
+0,V. Technical/Structural,0.021020478161241363,chatgpt,reddit
+0,VI. Regional/Subcultural,0.05026220640398853,chatgpt,reddit
+0,VII. Experimental,0.032505737030091277,chatgpt,reddit
+1,I. Linguistic Humor,-2.08118392451434,chatgpt,reddit
+1,II. Contextual Humor,0.5969255571456946,chatgpt,reddit
+1,III. NSFW Humor,4.82080711171817,chatgpt,reddit
+1,IV. Social Dynamics,-0.2225129680431985,chatgpt,reddit
+1,V. Technical/Structural,-0.377289093698395,chatgpt,reddit
+1,VI. Regional/Subcultural,-0.9021384840049671,chatgpt,reddit
+1,VII. Experimental,-0.5834339242907719,chatgpt,reddit
+0,I. Linguistic Humor,2.982728771554064,llama,reddit
+0,II. Contextual Humor,-0.9133149729226485,llama,reddit
+0,III. NSFW Humor,-1.5406524636597172,llama,reddit
+0,IV. Social Dynamics,-0.7767321719644509,llama,reddit
+0,V. Technical/Structural,-4.418703966235402,llama,reddit
+0,VI. Regional/Subcultural,-0.3094107691702128,llama,reddit
+0,VII. Experimental,-2.1030860562939178,llama,reddit
+1,I. Linguistic Humor,-6.975929058287311,llama,reddit
+1,II. Contextual Humor,2.1360374834418616,llama,reddit
+1,III. NSFW Humor,3.603238213431681,llama,reddit
+1,IV. Social Dynamics,1.8166011541472837,llama,reddit
+1,V. Technical/Structural,10.334350777047236,llama,reddit
+1,VI. Regional/Subcultural,0.7236419201726242,llama,reddit
+1,VII. Experimental,4.91864338189077,llama,reddit

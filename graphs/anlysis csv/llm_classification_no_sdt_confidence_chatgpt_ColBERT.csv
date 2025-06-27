@@ -1,0 +1,2 @@
+llm,dataset,predictor,d_prime,beta,hit_rate,false_alarm_rate,valid_entries
+chatgpt,ColBERT,confidence,-3.53972518768848,0.49891385902312924,0.024632189032545698,0.9421902128480484,73569

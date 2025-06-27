@@ -1,0 +1,7 @@
+llm,category,variable,P(llm_classification=YES | Var=High),P(Funniness=High | Var=High)
+chatgpt,I. Linguistic Humor,offensiveness,0.6586206896551724,0.7655172413793103
+chatgpt,I. Linguistic Humor,originality,0.4259012016021362,0.40487316421895864
+chatgpt,I. Linguistic Humor,appropriateness,0.40144608613643507,0.37723986167871737
+chatgpt,I. Linguistic Humor,clarity,0.39931951747602845,0.37519331889885554
+chatgpt,I. Linguistic Humor,confidence,0.7633136094674556,0.6828402366863905
+chatgpt,I. Linguistic Humor,score,0.39279298319771744,0.3701785902990595

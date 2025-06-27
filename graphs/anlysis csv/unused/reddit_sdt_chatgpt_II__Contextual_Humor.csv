@@ -1,0 +1,7 @@
+llm,category,variable,P(llm_classification=YES | Var=High),P(Funniness=High | Var=High)
+chatgpt,II. Contextual Humor,offensiveness,0.3380281690140845,0.4084507042253521
+chatgpt,II. Contextual Humor,originality,0.3134469696969697,0.26325757575757575
+chatgpt,II. Contextual Humor,appropriateness,0.29800173761946136,0.2380538662033015
+chatgpt,II. Contextual Humor,clarity,0.29357021996615906,0.23604060913705585
+chatgpt,II. Contextual Humor,confidence,0.6461824953445066,0.47113594040968343
+chatgpt,II. Contextual Humor,score,0.29007415858528235,0.23416999429549343

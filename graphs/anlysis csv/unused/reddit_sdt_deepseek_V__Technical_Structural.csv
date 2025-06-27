@@ -1,0 +1,6 @@
+llm,category,variable,P(llm_classification=YES | Var=High),P(Funniness=High | Var=High)
+deepseek,V. Technical_Structural,offensiveness,0.0,0.0
+deepseek,V. Technical_Structural,originality,0.058823529411764705,0.14705882352941177
+deepseek,V. Technical_Structural,clarity,0.008968609865470852,0.013452914798206279
+deepseek,V. Technical_Structural,confidence,0.018518518518518517,0.037037037037037035
+deepseek,V. Technical_Structural,score,0.005873715124816446,0.01908957415565345

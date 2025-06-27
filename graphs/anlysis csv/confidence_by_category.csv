@@ -1,0 +1,36 @@
+llm,category,metric,value,valid_entries
+grok,III. NSFW Humor,confidence,8.577181208053691,2682
+grok,VII. Experimental,confidence,8.332432432432432,1110
+grok,II. Contextual Humor,confidence,8.340113913751017,3687
+grok,IV. Social Dynamics,confidence,8.287878787878787,198
+grok,VI. Regional/Subcultural,confidence,8.309187279151944,1698
+grok,I. Linguistic Humor,confidence,8.58868501529052,9810
+grok,V. Technical/Structural,confidence,8.323529411764707,918
+deepseek,III. NSFW Humor,confidence,5.498190591073582,2487
+deepseek,VII. Experimental,confidence,5.225274725274725,1092
+deepseek,II. Contextual Humor,confidence,5.207692307692308,3510
+deepseek,IV. Social Dynamics,confidence,5.045454545454546,198
+deepseek,VI. Regional/Subcultural,confidence,5.197053406998158,1629
+deepseek,I. Linguistic Humor,confidence,5.410554264852307,9039
+deepseek,V. Technical/Structural,confidence,4.5364238410596025,906
+chatgpt,III. NSFW Humor,confidence,3.8641425389755013,2694
+chatgpt,VII. Experimental,confidence,2.962466487935657,1119
+chatgpt,II. Contextual Humor,confidence,3.7949552481692432,3687
+chatgpt,IV. Social Dynamics,confidence,3.0307692307692307,195
+chatgpt,VI. Regional/Subcultural,confidence,3.5651408450704225,1704
+chatgpt,I. Linguistic Humor,confidence,4.4537431527693245,9858
+chatgpt,V. Technical/Structural,confidence,2.6970684039087947,921
+llama,III. NSFW Humor,confidence,9.21990171990172,2442
+llama,VII. Experimental,confidence,9.077747989276139,1119
+llama,II. Contextual Humor,confidence,9.478507704785077,3699
+llama,IV. Social Dynamics,confidence,9.363636363636363,198
+llama,VI. Regional/Subcultural,confidence,9.131810193321616,1707
+llama,I. Linguistic Humor,confidence,9.56437625083389,8994
+llama,V. Technical/Structural,confidence,8.25974025974026,924
+average,III. NSFW Humor,confidence,6.75429403202329,10305
+average,VII. Experimental,confidence,6.402702702702703,4440
+average,II. Contextual Humor,confidence,6.725776589179182,14583
+average,IV. Social Dynamics,confidence,6.444866920152092,789
+average,VI. Regional/Subcultural,confidence,6.565449688334818,6738
+average,I. Linguistic Humor,confidence,6.978276438290761,37701
+average,V. Technical/Structural,confidence,5.959934587080949,3669

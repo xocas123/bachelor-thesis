@@ -1,0 +1,6 @@
+llm,category,variable,P(Funniness=High | Var=High)
+deepseek,ColBERT,offensiveness,0.205204021289178
+deepseek,ColBERT,originality,0.04210725075528701
+deepseek,ColBERT,appropriateness,0.16968409384814337
+deepseek,ColBERT,clarity,0.13215733164494284
+deepseek,ColBERT,confidence,0.11525268694260232

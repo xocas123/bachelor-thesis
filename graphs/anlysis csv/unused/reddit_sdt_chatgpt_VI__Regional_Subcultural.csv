@@ -1,0 +1,6 @@
+llm,category,variable,P(llm_classification=YES | Var=High),P(Funniness=High | Var=High)
+chatgpt,VI. Regional_Subcultural,offensiveness,0.0,0.0
+chatgpt,VI. Regional_Subcultural,originality,0.35,0.75
+chatgpt,VI. Regional_Subcultural,clarity,0.2446183953033268,0.19960861056751467
+chatgpt,VI. Regional_Subcultural,confidence,0.8741258741258742,0.5174825174825175
+chatgpt,VI. Regional_Subcultural,score,0.22845953002610966,0.1919060052219321

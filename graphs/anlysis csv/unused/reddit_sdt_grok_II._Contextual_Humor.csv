@@ -1,0 +1,6 @@
+llm,category,variable,P(llm_classification=YES | Var=High),P(Funniness=High | Var=High)
+grok,II. Contextual Humor,offensiveness,0.5704225352112676,0.007042253521126761
+grok,II. Contextual Humor,originality,0.5895348837209302,0.19883720930232557
+grok,II. Contextual Humor,clarity,0.4151267726686721,0.05328749462827675
+grok,II. Contextual Humor,confidence,0.41476177361608374,0.05480583861195263
+grok,II. Contextual Humor,score,0.3966547192353644,0.053464755077658306

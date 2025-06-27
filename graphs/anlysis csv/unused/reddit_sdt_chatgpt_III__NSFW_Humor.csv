@@ -1,0 +1,7 @@
+llm,category,variable,P(llm_classification=YES | Var=High),P(Funniness=High | Var=High)
+chatgpt,III. NSFW Humor,offensiveness,0.5845410628019324,0.5410628019323671
+chatgpt,III. NSFW Humor,originality,0.35526315789473684,0.28421052631578947
+chatgpt,III. NSFW Humor,appropriateness,0.3324538258575198,0.2678100263852243
+chatgpt,III. NSFW Humor,clarity,0.3238434163701068,0.25622775800711745
+chatgpt,III. NSFW Humor,confidence,0.7319034852546917,0.546916890080429
+chatgpt,III. NSFW Humor,score,0.32270916334661354,0.2553784860557769

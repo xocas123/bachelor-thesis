@@ -1,0 +1,10 @@
+joke_num,text,true_label,llm_classification,confidence,llm_personal_funny,funniness,offensiveness,originality,appropriateness,clarity,upvotes,downvotes,score
+1,"Hi, how is your day going? *insert reply 343 days later*",True,YES,8,YES,7,1,6,8,9,6.0,0.0,6.0
+2,"Brittonic or Brythonic may refer to: Common Brittonic, or Brythonic, the Celtic language anciently spoken in Great Britain Brittonic languages, a branch of the Celtic languages descended from Common Brittonic Britons (Celtic people), or Celtic Britons, the Celtic people of Great Britain in ancient times Language and nationality disambiguation pages",False,YES,8,YES,7,1,6,8,9,,,
+3,"The Dutch West India Company (, or GWC; ; ) was a chartered company of Dutch merchants as well as foreign investors",False,YES,8,YES,7,1,6,8,9,,,
+4,Sorry I confused this with r/dankmemes,True,NO,7,NO,3,1,2,7,8,7.0,0.0,7.0
+5,"Memes Since today students of to analyze poems, did you ever wonder wether kids in 200 years will have to write meme interpretations?",True,NO,7,NO,3,1,2,7,8,9.0,0.0,9.0
+6,"Helen Wilburforce Gandy (April 8, 1897 – July 7, 1988) was the longtime secretary to Federal Bureau of Investigation director J",False,NO,7,NO,3,1,2,7,8,,,
+7,Fuck the mods Fuck the mods,True,NO,1,NO,2,7,1,1,8,8.0,0.0,8.0
+8,The First Italo-Ethiopian War was fought between Italy and Ethiopia from 1895 to 1896,False,NO,1,NO,2,7,1,1,8,,,
+9,Placeholder,False,NO,1,NO,2,7,1,1,8,,,

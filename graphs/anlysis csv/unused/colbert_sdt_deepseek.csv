@@ -1,0 +1,6 @@
+llm,category,variable,P(llm_classification=YES | Var=High),P(Funniness=High | Var=High)
+deepseek,ColBERT,offensiveness,0.29482499463173717,0.18692291174575906
+deepseek,ColBERT,originality,0.3562693539075211,0.20952081037107018
+deepseek,ColBERT,appropriateness,0.36058565779630225,0.21315592604467243
+deepseek,ColBERT,clarity,0.3405887958272732,0.2002106424595015
+deepseek,ColBERT,confidence,0.3441792103796057,0.20227053874613551

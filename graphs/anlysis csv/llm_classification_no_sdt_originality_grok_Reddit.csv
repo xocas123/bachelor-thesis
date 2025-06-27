@@ -1,0 +1,2 @@
+llm,dataset,predictor,d_prime,beta,hit_rate,false_alarm_rate,valid_entries
+grok,Reddit,originality,-0.6593455339595885,1.0899525421701857,0.4211169284467714,0.6773526370217167,20163

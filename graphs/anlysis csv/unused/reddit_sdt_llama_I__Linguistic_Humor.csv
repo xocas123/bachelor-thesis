@@ -1,0 +1,7 @@
+llm,category,variable,P(llm_classification=YES | Var=High),P(Funniness=High | Var=High)
+llama,I. Linguistic Humor,offensiveness,0.5845997973657548,0.3515704154002026
+llama,I. Linguistic Humor,originality,0.5800344234079173,0.5628227194492255
+llama,I. Linguistic Humor,appropriateness,0.420352546771926,0.27208824483616306
+llama,I. Linguistic Humor,clarity,0.43196234908942094,0.2677511765909556
+llama,I. Linguistic Humor,confidence,0.4428660956757886,0.26906204303321496
+llama,I. Linguistic Humor,score,0.42551414552667294,0.25931725649859066

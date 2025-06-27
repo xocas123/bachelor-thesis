@@ -1,0 +1,7 @@
+llm,category,variable,P(llm_classification=YES | Var=High),P(Funniness=High | Var=High)
+chatgpt,VII. Experimental,offensiveness,0.16666666666666666,0.2708333333333333
+chatgpt,VII. Experimental,originality,0.17665615141955837,0.17665615141955837
+chatgpt,VII. Experimental,appropriateness,0.17701863354037267,0.17080745341614906
+chatgpt,VII. Experimental,clarity,0.16193181818181818,0.1590909090909091
+chatgpt,VII. Experimental,confidence,0.4253731343283582,0.373134328358209
+chatgpt,VII. Experimental,score,0.15676728334956183,0.15384615384615385

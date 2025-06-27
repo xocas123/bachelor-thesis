@@ -1,0 +1,7 @@
+llm,category,variable,P(llm_classification=YES | Var=High),P(Funniness=High | Var=High)
+deepseek,IV. Social Dynamics,offensiveness,0.27586206896551724,0.1724137931034483
+deepseek,IV. Social Dynamics,originality,0.2222222222222222,0.15555555555555556
+deepseek,IV. Social Dynamics,appropriateness,0.17543859649122806,0.12280701754385964
+deepseek,IV. Social Dynamics,clarity,0.16666666666666666,0.11666666666666667
+deepseek,IV. Social Dynamics,confidence,0.2222222222222222,0.15555555555555556
+deepseek,IV. Social Dynamics,score,0.16759776536312848,0.11731843575418995

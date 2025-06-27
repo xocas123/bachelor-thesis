@@ -1,0 +1,7 @@
+llm,category,variable,P(llm_classification=YES | Var=High),P(Funniness=High | Var=High)
+grok,I. Linguistic Humor,offensiveness,0.6510583707504811,0.1603592046183451
+grok,I. Linguistic Humor,originality,0.6478764478764478,0.16293436293436295
+grok,I. Linguistic Humor,appropriateness,0.49838625715773033,0.08755856324830817
+grok,I. Linguistic Humor,clarity,0.5295404814004376,0.10260150741551179
+grok,I. Linguistic Humor,confidence,0.5020843924758516,0.08581596339603458
+grok,I. Linguistic Humor,score,0.4968684759916493,0.08235908141962421

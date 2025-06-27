@@ -1,0 +1,7 @@
+llm,category,variable,P(llm_classification=YES | Var=High),P(Funniness=High | Var=High)
+grok,VII. Experimental,offensiveness,0.3739495798319328,0.0546218487394958
+grok,VII. Experimental,originality,0.3985890652557319,0.06525573192239859
+grok,VII. Experimental,appropriateness,0.30676552363299353,0.03429101019462465
+grok,VII. Experimental,clarity,0.3230769230769231,0.04065934065934066
+grok,VII. Experimental,confidence,0.30603060306030605,0.0333033303330333
+grok,VII. Experimental,score,0.29896907216494845,0.033739456419868794

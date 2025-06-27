@@ -1,0 +1,7 @@
+llm,category,variable,P(llm_classification=YES | Var=High),P(Funniness=High | Var=High)
+deepseek,I. Linguistic Humor,offensiveness,0.4122137404580153,0.36946564885496186
+deepseek,I. Linguistic Humor,originality,0.3285904846598488,0.25878168074699864
+deepseek,I. Linguistic Humor,appropriateness,0.2472250252270434,0.19508913555331314
+deepseek,I. Linguistic Humor,clarity,0.24551495016611297,0.19335548172757475
+deepseek,I. Linguistic Humor,confidence,0.32158398607484767,0.25282854656222803
+deepseek,I. Linguistic Humor,score,0.24014945652173914,0.18931159420289856

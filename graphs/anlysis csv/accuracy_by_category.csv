@@ -1,0 +1,36 @@
+llm,category,metric,value,valid_entries
+grok,III. NSFW Humor,accuracy,0.3979933110367893,2691
+grok,VII. Experimental,accuracy,0.30727762803234504,1113
+grok,II. Contextual Humor,accuracy,0.4089430894308943,3690
+grok,IV. Social Dynamics,accuracy,0.30303030303030304,198
+grok,VI. Regional/Subcultural,accuracy,0.323943661971831,1704
+grok,I. Linguistic Humor,accuracy,0.5022858884486437,9843
+grok,V. Technical/Structural,accuracy,0.2435064935064935,924
+deepseek,III. NSFW Humor,accuracy,0.1524163568773234,2421
+deepseek,VII. Experimental,accuracy,0.09659090909090909,1056
+deepseek,II. Contextual Humor,accuracy,0.17891097666378566,3471
+deepseek,IV. Social Dynamics,accuracy,0.15384615384615385,195
+deepseek,VI. Regional/Subcultural,accuracy,0.14842300556586271,1617
+deepseek,I. Linguistic Humor,accuracy,0.2558620689655172,8700
+deepseek,V. Technical/Structural,accuracy,0.006756756756756757,888
+chatgpt,III. NSFW Humor,accuracy,0.32516703786191536,2694
+chatgpt,VII. Experimental,accuracy,0.16085790884718498,1119
+chatgpt,II. Contextual Humor,accuracy,0.28966639544344996,3687
+chatgpt,IV. Social Dynamics,accuracy,0.13846153846153847,195
+chatgpt,VI. Regional/Subcultural,accuracy,0.22711267605633803,1704
+chatgpt,I. Linguistic Humor,accuracy,0.3971393791844188,9858
+chatgpt,V. Technical/Structural,accuracy,0.09120521172638436,921
+llama,III. NSFW Humor,accuracy,0.3464373464373464,2442
+llama,VII. Experimental,accuracy,0.3351206434316354,1119
+llama,II. Contextual Humor,accuracy,0.41930251419302517,3699
+llama,IV. Social Dynamics,accuracy,0.42424242424242425,198
+llama,VI. Regional/Subcultural,accuracy,0.3444639718804921,1707
+llama,I. Linguistic Humor,accuracy,0.4723148765843896,8994
+llama,V. Technical/Structural,accuracy,0.18506493506493507,924
+average,III. NSFW Humor,accuracy,0.3085480093676815,10248
+average,VII. Experimental,accuracy,0.2266848196051736,4407
+average,II. Contextual Humor,accuracy,0.32645906372447925,14547
+average,IV. Social Dynamics,accuracy,0.25572519083969464,786
+average,VI. Regional/Subcultural,accuracy,0.2624777183600713,6732
+average,I. Linguistic Humor,accuracy,0.4100280786201364,37395
+average,V. Technical/Structural,accuracy,0.13289581624282198,3657

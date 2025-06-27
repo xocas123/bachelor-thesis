@@ -1,0 +1,7 @@
+joke_num,text,true_label,llm_classification,confidence,llm_personal_funny,funniness,offensiveness,originality,appropriateness,clarity,upvotes,downvotes,score
+1,"You guys know the official cyberpunk 2077 meme subreddit is r/dumdumdidnothingwrong, right? right? &#x200B; **RIGHT?**",True,YES,8,NO,4,1,5,9,6,2.0,0.0,2.0
+2,"Management science (MS) is the broad interdisciplinary study of problem solving and decision making in human organizations, with strong links to management, economics, business, engineering, management consulting, and other fields",False,YES,8,NO,1,1,1,10,10,,,
+3,"The Batavi were an ancient Germanic tribe that lived around the modern Dutch Rhine delta in the area that the Romans called Batavia, from the second half of the first century BC to the third century AD",False,YES,8,NO,1,1,1,10,10,,,
+4,Ciri Cyberpunk by Mia Malkova [ Removed by Reddit in response to a copyright notice. ],True,NO,5,NO,2,3,4,5,2,34.0,0.0,34.0
+5,Placeholder,False,NO,5,NO,5,3,4,7,6,,,
+6,Placeholder,False,NO,5,NO,5,3,4,7,6,,,

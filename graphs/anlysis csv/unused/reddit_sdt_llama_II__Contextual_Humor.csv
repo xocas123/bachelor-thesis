@@ -1,0 +1,7 @@
+llm,category,variable,P(llm_classification=YES | Var=High),P(Funniness=High | Var=High)
+llama,II. Contextual Humor,offensiveness,0.5739130434782609,0.22608695652173913
+llama,II. Contextual Humor,originality,0.5794278758368837,0.559342665855143
+llama,II. Contextual Humor,appropriateness,0.4153543307086614,0.25393700787401574
+llama,II. Contextual Humor,clarity,0.4187380497131931,0.25047801147227533
+llama,II. Contextual Humor,confidence,0.4312360801781737,0.25334075723830735
+llama,II. Contextual Humor,score,0.41919470490899063,0.2465526751241037

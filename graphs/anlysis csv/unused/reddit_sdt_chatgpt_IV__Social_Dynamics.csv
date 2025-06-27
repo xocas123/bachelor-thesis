@@ -1,0 +1,7 @@
+llm,category,variable,P(llm_classification=YES | Var=High),P(Funniness=High | Var=High)
+chatgpt,IV. Social Dynamics,offensiveness,0.15384615384615385,0.3076923076923077
+chatgpt,IV. Social Dynamics,originality,0.15384615384615385,0.15384615384615385
+chatgpt,IV. Social Dynamics,appropriateness,0.14285714285714285,0.14285714285714285
+chatgpt,IV. Social Dynamics,clarity,0.13333333333333333,0.13333333333333333
+chatgpt,IV. Social Dynamics,confidence,0.3333333333333333,0.3333333333333333
+chatgpt,IV. Social Dynamics,score,0.1340782122905028,0.1340782122905028

@@ -1,0 +1,2 @@
+llm,dataset,predictor,d_prime,beta,hit_rate,false_alarm_rate,valid_entries
+grok,ColBERT,offensiveness,0.1646483467909694,0.971018578685388,0.6029326644800309,0.5383576445164776,59973
